@@ -40,7 +40,8 @@
 .navbar-links:hover {
     color: #0cc2ea;
 }
-.navbar-btn {
+.navbar-btn,
+.mobile-bot-btn {
     padding: 14px 20px;
     color: white;
     border: 1px solid transparent;
@@ -53,13 +54,18 @@
     cursor: pointer;
     transition: all .4s ease;
 }
-.navbar-btn:hover {
+.mobile-bot-btn{
+    padding: 12px 11px;
+    font-size: 16px;
+}
+.navbar-btn:hover,
+.mobile-bot-btn:hover {
     color: #081624;
     background-color: white;
     border: 1px solid #081624;
 }
 /* Hamburger Icon */
-.mobile-nav {
+.mobile-nav, .mobile-bot-btn {
     display: none;
 }
 .hamb-icon {
@@ -115,12 +121,12 @@
 .mobile-navbar-links li a:hover {
     color: #0cc2ea;
 }
-/* Responsive */
+/* Mobile */
 @media screen and (max-width: 900px) {
     .navbar-btn, .navbar-items {
         display: none;
     }
-    .mobile-nav {
+    .mobile-nav, .mobile-bot-btn {
         display: block;
     }
 }

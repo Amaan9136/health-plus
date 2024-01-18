@@ -7,25 +7,26 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import "../Styles/Navbar.css";
 import { Link } from "react-router-dom";
-import { toast } from "react-toastify";
+import { handleShowBot } from "../Store/redux";
+import { useDispatch, useSelector } from 'react-redux';
 
 function Navbar() {
   const [nav, setNav] = useState(false);
-  const [isButtonDisabled, setIsButtonDisabled] = useState(false);
+  const dispatch = useDispatch();
+  const showBot = useSelector(state => state.chatBotSlice.showBot);
 
   const openNav = () => {
     setNav(!nav);
   };
 
-  const handleChatBtnClick = () => {
-    if (!isButtonDisabled) {
-      toast.info("Experiencing high traffic, Please wait a moment.", {
-        position: toast.POSITION.TOP_CENTER,
-        onOpen: () => setIsButtonDisabled(true),
-        onClose: () => setIsButtonDisabled(false),
-      });
-    }
-  };
+  const navItems = [
+    { href: "#", text: "Home" },
+    { href: "#services", text: "Services" },
+    { href: "#about", text: "About" },
+    { href: "#reviews", text: "Reviews" },
+    { href: "#contact", text: "Contact" },
+    { href: "#doctors", text: "Doctors" },
+  ];
 
   return (
     <div className="navbar-section">
@@ -37,79 +38,45 @@ function Navbar() {
 
       {/* Desktop */}
       <ul className="navbar-items">
-        <li>
-          <Link to="/" className="navbar-links">
-            Home
-          </Link>
-        </li>
-        <li>
-          <a href="#services" className="navbar-links">
-            Services
-          </a>
-        </li>
-        <li>
-          <a href="#about" className="navbar-links">
-            About
-          </a>
-        </li>
-        <li>
-          <a href="#reviews" className="navbar-links">
-            Reviews
-          </a>
-        </li>
-        <li>
-          <a href="#doctors" className="navbar-links">
-            Doctors
-          </a>
-        </li>
+        {navItems.map((item, index) => (
+          <li key={index}>
+            <a href={item.href} className="navbar-links">
+              {item.text}
+            </a>
+          </li>
+        ))}
       </ul>
 
       <button
         className="navbar-btn"
         type="button"
-        disabled={isButtonDisabled}
-        onClick={handleChatBtnClick}
+        onClick={() => { dispatch(handleShowBot()) }}
       >
-        <FontAwesomeIcon icon={faCommentDots} /> Live Chat
+        <FontAwesomeIcon icon={faCommentDots} /> {showBot ? 'Close Chat' : 'Open Chat'}
       </button>
 
       {/* Mobile */}
+
+      <button
+        className="mobile-bot-btn"
+        type="button"
+        onClick={() => { dispatch(handleShowBot()) }}
+      >
+        <FontAwesomeIcon icon={faCommentDots} /> {showBot ? 'Close Chat' : 'Open Chat'}
+      </button>
       <div className={`mobile-navbar ${nav ? "open-nav" : ""}`}>
         <div onClick={openNav} className="mobile-navbar-close">
           <FontAwesomeIcon icon={faXmark} className="hamb-icon" />
         </div>
 
         <ul className="mobile-navbar-links">
-          <li>
-            <Link onClick={openNav} to="/">
-              Home
-            </Link>
-          </li>
-          <li>
-            <a onClick={openNav} href="#services">
-              Services
-            </a>
-          </li>
-          <li>
-            <a onClick={openNav} href="#about">
-              About
-            </a>
-          </li>
-          <li>
-            <a onClick={openNav} href="#reviews">
-              Reviews
-            </a>
-          </li>
-          <li>
-            <a onClick={openNav} href="#doctors">
-              Doctors
-            </a>
-          </li>
-          <li>
-            <a onClick={openNav} href="#contact">
-              Contact
-            </a>
-          </li>
+          {navItems.map((item, index) => (
+            <li key={index}>
+              <a onClick={openNav} href={item.href}>
+                {item.text}
+              </a>
+            </li>
+          ))}
         </ul>
       </div>
 

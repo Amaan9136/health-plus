@@ -2,12 +2,19 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "../Styles/AppointmentForm.css";
 import { ToastContainer, toast } from "react-toastify";
+import { useDispatch, useSelector } from 'react-redux';
+import { handleViewModel } from "../Store/redux";
+import ViewTable from "./ViewTable";
+import { faTable } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function AppointmentForm() {
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
 
+  const dispatch = useDispatch();
+  const showViewModel = useSelector(state => state.modelSlice.showViewModel);
   const [patientName, setPatientName] = useState("");
   const [patientNumber, setPatientNumber] = useState("");
   const [patientGender, setPatientGender] = useState("default");
@@ -16,8 +23,9 @@ function AppointmentForm() {
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [formErrors, setFormErrors] = useState({});
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
+    setIsSubmitted(true);
 
     // Validate form inputs
     const errors = {};
@@ -54,19 +62,46 @@ function AppointmentForm() {
       return;
     }
 
-    // Reset form fields and errors after successful submission
-    setPatientName("");
-    setPatientNumber("");
-    setPatientGender("default");
-    setAppointmentTime("");
-    setPreferredMode("default");
-    setFormErrors({});
+    try {
+      const formData = {
+        patientName,
+        patientNumber,
+        patientGender,
+        appointmentTime,
+        preferredMode,
+      };
 
-    toast.success("Appointment Scheduled !", {
-      position: toast.POSITION.TOP_CENTER,
-      onOpen: () => setIsSubmitted(true),
-      onClose: () => setIsSubmitted(false),
-    });
+      // START XAMPP OR ANY LOCALHOST SERVER'S (KEEP RUNNING THEM IN BACKEND)
+      const response = await fetch('http://localhost/backend/storeAppointment.php', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+
+      const responseData = await response.json();
+      if (response.ok && responseData.success) {
+        toast.success(responseData.message, {
+          position: toast.POSITION.TOP_CENTER,
+        });
+
+        setPatientName("");
+        setPatientNumber("");
+        setPatientGender("default");
+        setAppointmentTime("");
+        setPreferredMode("default");
+        setFormErrors({});
+      } else {
+        toast.error("Error saving appointment data!", {
+          position: toast.POSITION.TOP_CENTER,
+        });
+      }
+    } catch (error) {
+      toast.error("Error saving data due to Network Issue!", {
+        position: toast.POSITION.TOP_CENTER,
+      });
+    }
   };
 
   return (
@@ -78,6 +113,8 @@ function AppointmentForm() {
       </h1>
 
       <div className="form-container">
+        {showViewModel && <ViewTable />}
+
         <h2 className="form-title">
           <span>Book Appointment Online</span>
         </h2>
@@ -105,6 +142,24 @@ function AppointmentForm() {
             />
             {formErrors.patientNumber && <p className="error-message">{formErrors.patientNumber}</p>}
           </label>
+
+          {
+          // USING AI - DISEASE PATENT FACING SO THAT IT CAN BE DETECTED AND RECOMMEND MEDICINE 
+          /* <br />
+          <label>
+            Select Disease:
+            <select
+              value={patientDisease}
+              onChange={(e) => setPatientDisease(e.target.value)}
+              required
+            >
+              <option value="default">Select</option>
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="private">I will inform Doctor only</option>
+            </select>
+            {formErrors.patientDisease && <p className="error-message">{formErrors.patientDisease}</p>}
+          </label> */}
 
           <br />
           <label>
@@ -143,26 +198,28 @@ function AppointmentForm() {
               required
             >
               <option value="default">Select</option>
-              <option value="voice">Voice Call</option>
-              <option value="video">Video Call</option>
+              <option value="Voice Call">Voice Call</option>
+              <option value="Video Call">Video Call</option>
             </select>
             {formErrors.preferredMode && <p className="error-message">{formErrors.preferredMode}</p>}
           </label>
 
           <br />
-          <button type="submit" className="text-appointment-btn">
-            Confirm Appointment
+          <button style={{ marginBottom: '1rem', marginRight: '1rem' }} type="submit" className="text-appointment-btn">
+            Save Appointment
+          </button>
+          <button
+            type="button"
+            onClick={() => { dispatch(handleViewModel()) }}
+            className="text-appointment-btn">
+            {showViewModel ? 'Close Appointment Data' : <><FontAwesomeIcon icon={faTable} /> View My Appointments</>}
           </button>
 
-          <p className="success-message" style={{display: isSubmitted ? "block" : "none"}}>Appointment details has been sent to the patients phone number via SMS.</p>
+          <p className="success-message" style={{ display: isSubmitted ? "block" : "none" }}>Appointment details has been sent to the patients phone number via SMS.</p>
         </form>
       </div>
 
-      <div className="legal-footer">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
-      </div>
-
-      <ToastContainer autoClose={5000} limit={1} closeButton={false} />
+      <ToastContainer autoClose={2500} limit={1} closeButton={false} />
     </div>
   );
 }

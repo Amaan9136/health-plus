@@ -76,17 +76,17 @@ function Footer() {
               </a>
             </li>
             <li>
-              <a href="tel:+022 5454 5252">+022 5454 5252</a>
+              <a href="tel:+918867305645">+91 8867305645</a>
             </li>
             <li>
-              <a href="tel:+022 2326 6232">+022 2326 6232</a>
+              <a href="tel:+917353346164">+91 7353346164</a>
             </li>
           </ul>
         </div>
       </div>
 
       <div className="ft-copyright">
-        <p>© 2013-2023 Health+. All rights reserved.</p>
+        <p>© 2023-2024 Health+. All rights reserved.</p>
 
         <ul className="ft-social-links">
           <li>

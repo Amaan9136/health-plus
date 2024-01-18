@@ -1,0 +1,811 @@
+Disease,Symptoms,Precautions,Drugs
+Common Cold,Runny Nose - Sneezing - Cough - Sore Throat - Fever,Rest - Hydration - Over-the-counter medications - Avoid close contact,Acetaminophen - Ibuprofen
+Influenza,Fever - Chills - Fatigue - Cough - Body aches,Rest - Fluids - Antiviral medications - Avoid crowded places,Oseltamivir - Rimantadine
+Hypertension,Headache - Dizziness - Blurred vision - Shortness of breath - Chest pain,Healthy diet - Regular exercise - Medication adherence - Stress management,Beta blockers - ACE inhibitors
+Diabetes,Frequent urination - Excessive thirst - Unexplained weight loss - Fatigue - Blurry vision,Healthy diet - Regular exercise - Insulin management - Regular blood sugar monitoring,Metformin - Gliclazide
+Migraine,Intense headache - Nausea - Sensitivity to light - Sensitivity to sound - Visual disturbances,Rest in a quiet - Hydration - Over-the-counter pain relievers - Avoid triggers,Sumatriptan - Naproxen
+Allergies,Sneezing - Itchy eyes - Runny nose - Rash - Fatigue,Avoid allergens - Use air purifiers - Take antihistamines, Loratadine - Cetirizine
+Asthma,Shortness of breath - Wheezing - Chest tightness - Cough - Fatigue,Avoid triggers - Use inhalers - Monitor respiratory function,Albuterol - Fluticasone
+Bronchitis,Cough - Shortness of breath - Chest discomfort - Fatigue - Fever,Rest - Hydration - Antibiotics - Avoid smoking,Amoxicillin - Azithromycin
+Gastroenteritis,Diarrhea - Vomiting - Abdominal pain - Nausea - Fever,Hydration - BRAT diet (Bananas, Rice, Applesauce, Toast) - Rest - Avoid spicy foods,Oral rehydration solutions - Loperamide
+Pneumonia,Cough - Fever - Shortness of breath - Chest pain - Fatigue,Rest - Antibiotics - Hydration - Monitor respiratory function,Amoxicillin - Azithromycin
+Osteoarthritis,Joint pain - Stiffness - Swelling - Reduced range of motion,Regular exercise - Weight management - Pain relievers - Hot/cold therapy,Acetaminophen - Ibuprofen
+Rheumatoid Arthritis,Joint pain - Swelling - Morning stiffness - Fatigue - Fever,Medications - Physical therapy - Joint protection techniques,Methotrexate - Adalimumab
+Gastritis,Abdominal pain - Nausea - Vomiting - Indigestion - Loss of appetite,Avoid spicy foods - Small, frequent meals - Antacids - Avoid alcohol and smoking,Omeprazole - Ranitidine
+Urinary Tract Infection (UTI),Burning sensation during urination - Frequent urination - Cloudy or strong-smelling urine - Abdominal pain - Fever,Hydration - Antibiotics - Avoid irritants - Wipe front to back,Ciprofloxacin - Nitrofurantoin
+Hepatitis B,Jaundice - Fatigue - Abdominal pain - Dark urine - Fever,Rest - Avoid alcohol and certain medications - Vaccination - Antiviral medications,Tenofovir - Entecavir
+Psoriasis,Red patches of skin - Itching - Thickened, pitted nails - Joint pain - Dry, cracked skin,Avoid triggers - Topical treatments - Phototherapy - Systemic medications,Methotrexate - Cyclosporine
+Lupus,Fatigue - Joint pain - Skin rashes - Fever - Chest pain,Medications - Sun protection - Regular medical check-ups,Hydroxychloroquine - Prednisone
+Gout,Intense joint pain - Swelling - Redness - Limited range of motion,Medications - Hydration - Avoid purine-rich foods - Weight management,Colchicine - Allopurinol
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Obstructive Pulmonary Disease (COPD),Shortness of breath - Chronic cough - Fatigue - Wheezing - Chest tightness,Smoking cessation - Medications - Pulmonary rehabilitation,Albuterol - Tiotropium
+Dengue Fever,Fever - Severe headache - Joint and muscle pain - Skin rash - Bleeding,Hydration - Rest - Pain relievers - Avoid aspirin,Paracetamol - Acetaminophen
+Malaria,Fever - Chills - Sweating - Headache - Nausea,Vector control - Antimalarial medications - Protective clothing - Bed nets,Chloroquine - Artemisinin-based combination therapy
+Osteoporosis,Fractures - Loss of height - Back pain - Stooped posture - Limited mobility,Calcium and vitamin D supplementation - Weight-bearing exercises - Medications,Alendronate - Risedronate
+Anemia,Fatigue - Weakness - Pale skin - Shortness of breath - Dizziness,Iron-rich diet - Iron supplementation - Vitamin B12 supplementation - Folic acid supplementation,Ferrous sulfate - Vitamin B12 injections
+Alzheimer's Disease,Memory loss - Confusion - Difficulty in problem-solving - Mood swings - Withdrawal,Social engagement - Cognitive stimulation - Medications - Supportive care,Donepezil - Rivastigmine
+Parkinson's Disease,Tremors - Slowness of movement - Stiffness - Impaired balance - Shuffling walk,Medications - Physical therapy - Deep brain stimulation - Speech therapy,Levodopa - Pramipexole
+HIV/AIDS,Fever - Fatigue - Weight loss - Night sweats - Swollen lymph nodes,Antiretroviral therapy (ART) - Safe sex practices - Regular medical check-ups,Tenofovir - Emtricitabine
+Cystic Fibrosis,Chronic cough - Difficulty breathing - Recurrent lung infections - Poor growth - Salty-tasting skin,Physiotherapy - Medications - Nutritional supplements - Lung transplant,Ivacaftor - Tobramycin
+Crohn's Disease,Abdominal pain - Diarrhea - Weight loss - Fatigue - Blood in stool,Medications - Nutritional support - Lifestyle modifications - Surgery,Infliximab - Adalimumab
+Ulcerative Colitis,Abdominal pain - Diarrhea - Blood in stool - Urgency to defecate - Fatigue,Medications - Dietary modifications - Surgery,Mesalamine - Azathioprine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Endometriosis,Pelvic pain - Painful periods - Pain during intercourse - Infertility - Heavy menstrual bleeding,Pain medications - Hormonal therapy - Surgical intervention,NSAIDs - Oral contraceptives
+Polycystic Ovary Syndrome (PCOS),Irregular periods - Weight gain - Excess hair growth - Acne - Fertility issues,Lifestyle modifications - Oral contraceptives - Insulin-sensitizing medications,Metformin - Spironolactone
+Fibromyalgia,Chronic pain - Fatigue - Sleep disturbances - Joint stiffness - Headaches,Physical therapy - Medications - Stress management - Sleep hygiene,Pregabalin - Duloxetine
+Hemorrhoids,Rectal bleeding - Itching - Pain during bowel movements - Swelling around the anus,High-fiber diet - Topical treatments - Warm baths - Hydration,Witch hazel - Hydrocortisone
+Epilepsy,Seizures - Temporary confusion - Uncontrollable movements - Loss of consciousness - Staring spells,Medications - Seizure management plan - Lifestyle adjustments,Phenytoin - Carbamazepine
+Schizophrenia,Delusions - Hallucinations - Disorganized thinking - Lack of motivation - Social withdrawal,Medications - Psychotherapy - Supportive care,Risperidone - Olanzapine
+Bipolar Disorder,Manic episodes - Depressive episodes - Mood swings - Impaired judgment - Energy fluctuations,Medications - Psychotherapy - Mood stabilizers - Supportive care,Lithium - Valproate
+OCD (Obsessive-Compulsive Disorder),Obsessions - Compulsions - Anxiety - Intrusive thoughts - Ritualistic behaviors,Exposure and response prevention (ERP) - Medications - Cognitive-behavioral therapy (CBT),Fluoxetine - Sertraline
+PTSD (Post-Traumatic Stress Disorder),Flashbacks - Nightmares - Anxiety - Hypervigilance - Avoidance behaviors,Trauma-focused therapy - Medications - Supportive care,Sertraline - Paroxetine
+Anorexia Nervosa,Extreme weight loss - Fear of gaining weight - Distorted body image - Amenorrhea - Food restriction,Psychotherapy - Nutritional rehabilitation - Medical monitoring,Olanzapine - Fluoxetine
+Bulimia Nervosa,Binge eating - Purging behaviors - Fear of weight gain - Dental issues - Swollen glands,Cognitive-behavioral therapy (CBT) - Nutritional counseling - Medications,Fluoxetine - Sertraline
+Sleep Apnea,Loud snoring - Choking or gasping during sleep - Daytime sleepiness - Difficulty concentrating - Morning headaches,Continuous positive airway pressure (CPAP) - Weight loss - Positional therapy - Dental appliances,CPAP machine - BiPAP machine
+Restless Legs Syndrome (RLS),Uncomfortable sensations in legs - Urge to move legs - Disrupted sleep - Tingling or crawling sensations,Medications - Lifestyle adjustments - Iron supplements,Pramipexole - Ropinirole
+Interstitial Cystitis (IC),Pelvic pain - Urgency to urinate - Frequent urination - Pain during intercourse - Painful bladder,Bladder training - Dietary modifications - Medications - Physical therapy,Elmiron - Amitriptyline
+Multiple Sclerosis,Fatigue - Numbness or tingling - Muscle weakness - Blurred or double vision - Problems with coordination,Medications - Physical therapy - Lifestyle adjustments - Supportive care,Fingolimod - Interferon beta-1a
+Amyotrophic Lateral Sclerosis (ALS),Muscle weakness - Difficulty speaking - Difficulty swallowing - Muscle cramps - Twitching,Supportive care - Assistive devices - Medications - Respiratory support,Riluzole - Edaravone
+Pulmonary Fibrosis,Shortness of breath - Persistent cough - Fatigue - Chest discomfort - Finger clubbing,Medications - Oxygen therapy - Pulmonary rehabilitation - Lung transplant,Pirfenidone - Nintedanib
+Sickle Cell Anemia,Anemia - Painful crises - Jaundice - Fatigue - Frequent infections,Hydration - Pain management - Blood transfusions - Hydroxyurea,Hydroxyurea - L-glutamine
+Myasthenia Gravis,Muscle weakness - Fatigue - Difficulty swallowing - Double vision - Facial drooping,Medications - Thymectomy - Plasmapheresis - Supportive care,Pyridostigmine - Immunosuppressants
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin-converting enzyme (ACE) inhibitors - Diuretics
+Pancreatitis,Abdominal pain - Nausea - Vomiting - Fever - Rapid pulse,Fasting - Pain management - Nutritional support - Avoid alcohol and fatty foods,Morphine - Omeprazole
+Dyslexia,Difficulty reading - Spelling challenges - Slow reading - Poor handwriting - Difficulty with phonics,Educational interventions - Reading programs - Speech therapy,No specific drugs for treatment
+Autism Spectrum Disorder (ASD),Social challenges - Repetitive behaviors - Communication difficulties - Sensory sensitivities,Early intervention - Applied Behavior Analysis (ABA) - Speech therapy - Occupational therapy,No specific drugs for core symptoms
+Peripheral Artery Disease (PAD),Leg pain during walking - Numbness or weakness in limbs - Cold limbs - Slow healing wounds - Erectile dysfunction,Smoking cessation - Regular exercise - Medications - Healthy diet,Aspirin - Clopidogrel
+Diverticulitis,Abdominal pain - Fever - Nausea - Changes in bowel habits - Bloating,Clear liquid diet - Antibiotics - Rest - Avoid seeds and nuts,Ciprofloxacin - Metronidazole
+Bell's Palsy,Facial weakness - Drooping on one side of the face - Difficulty closing eye - Drooling - Loss of taste,Physical therapy - Eye protection - Medications - Supportive care,Corticosteroids - Antiviral medications
+Tuberculosis (TB),Persistent cough - Weight loss - Night sweats - Fatigue - Chest pain,Isolation - Medications - Good ventilation - Regular check-ups,Isoniazid - Rifampin
+Eating Disorders,Extreme preoccupation with food, weight, and body shape - Binge eating - Compensatory behaviors (e.g., vomiting, excessive exercise) - Social withdrawal - Frequent dieting,Psychotherapy - Nutritional counseling - Medications - Supportive care,Fluoxetine - Olanzapine
+Glaucoma,Gradual loss of peripheral vision - Eye pain - Blurred vision - Halos around lights - Nausea,Regular eye exams - Medications - Laser therapy - Surgery,Latanoprost - Timolol
+Ovarian Cancer,Abdominal bloating - Pelvic pain - Changes in bowel habits - Unexplained weight loss - Fatigue,Regular check-ups - Surgery - Chemotherapy - Targeted therapy,Cisplatin - Paclitaxel
+Prostate Cancer,Frequent urination - Difficulty urinating - Blood in urine or semen - Erectile dysfunction - Pelvic pain,Regular check-ups - Biopsy - Surgery - Radiation therapy,Leuprolide - Abiraterone
+Esophageal Cancer,Difficulty swallowing - Unintentional weight loss - Chest pain - Chronic cough - Hoarseness,Endoscopy - Surgery - Chemotherapy - Radiation therapy,Cisplatin - 5-Fluorouracil
+Testicular Cancer,Lump or swelling in testicle - Testicular pain or discomfort - Fluid buildup in scrotum - Back pain - Breast enlargement,Self-exams - Surgery - Chemotherapy - Radiation therapy,Cisplatin - Bleomycin
+Leukemia,Fatigue - Pale skin - Frequent infections - Unexplained weight loss - Easy bruising,Chemotherapy - Bone marrow transplant - Supportive care,Imatinib - Dasatinib
+Hemophilia,Easy bruising - Joint pain and swelling - Excessive bleeding - Nosebleeds - Blood in urine or stool,Factor replacement therapy - Desmopressin - Joint protection - Avoid aspirin and NSAIDs,Factor VIII concentrate - Recombinant factor IX
+Polio,Muscle weakness - Fatigue - Fever - Difficulty swallowing - Joint pain,Vaccination - Supportive care - Physical therapy - Breathing support,No specific drugs for treatment
+Lyme Disease,Fever - Rash - Headache - Fatigue - Joint pain,Avoid tick-infested areas - Tick checks - Antibiotics - Prompt removal of ticks,Doxycycline - Amoxicillin
+Sleep Disorders,Insomnia - Sleep apnea - Narcolepsy - Restless Legs Syndrome - Nightmares,Sleep hygiene - Behavioral therapy - Medications,Eszopiclone - Modafinil
+Rabies,Fever - Headache - Nausea - Agitation - Difficulty swallowing,Preventive vaccination - Immediate wound care - Post-exposure prophylaxis,Rabies vaccine - Rabies immune globulin
+Cirrhosis,Fatigue - Weakness - Abdominal swelling - Jaundice - Easy bruising,Avoid alcohol - Healthy diet - Medications - Regular check-ups,Ursodiol - Lactulose
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Guillain-Barré Syndrome,Tingling or weakness starting in the legs - Ascending paralysis - Difficulty breathing - Loss of reflexes,Supportive care - Plasmapheresis - Intravenous immunoglobulin,IVIG - Plasma exchange
+Rheumatic Fever,Fever - Joint pain - Chest pain - Skin rash - Shortness of breath,Antibiotics - Anti-inflammatory medications - Rest - Regular check-ups,Penicillin - Aspirin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Cushing's Syndrome,Weight gain - High blood pressure - Fatigue - Round face - Osteoporosis,Tumor removal - Gradual reduction of corticosteroid medication,Metyrapone - Ketoconazole
+Cholera,Severe diarrhea - Vomiting - Dehydration - Muscle cramps - Rapid heart rate,Hydration - Oral rehydration solutions - Antibiotics,Tetracycline - Azithromycin
+Typhoid Fever,Prolonged fever - Headache - Weakness - Abdominal pain - Rose-colored spots on the trunk,Hygiene practices - Antibiotics - Vaccination,Ciprofloxacin - Azithromycin
+Yellow Fever,Fever - Jaundice - Headache - Muscle pain - Vomiting,Preventive vaccination - Mosquito control - Avoidance of mosquito bites,Yellow fever vaccine
+Lung Cancer,Chronic cough - Chest pain - Shortness of breath - Weight loss - Hoarseness,Smoking cessation - Surgery - Chemotherapy - Radiation therapy,Cisplatin - Docetaxel
+Aortic Aneurysm,Abdominal or back pain - Pulsating sensation in abdomen - Shortness of breath - Hoarseness - Difficulty swallowing,Regular check-ups - Surgery - Blood pressure management - Healthy lifestyle,Beta blockers - ACE inhibitors
+Dental Cavities,Toothache - Sensitivity to hot and cold - Bad breath - Discoloration of teeth,Dental hygiene practices - Fluoride treatment - Regular dental check-ups,Fluoride toothpaste - Amoxicillin
+Gastroesophageal Reflux Disease (GERD),Heartburn - Regurgitation - Chest pain - Difficulty swallowing - Chronic cough,Lifestyle modifications - Medications - Surgery,PPIs (Proton Pump Inhibitors) - H2 blockers
+Hyperthyroidism,Weight loss - Rapid heartbeat - Anxiety - Excessive sweating - Tremors,Anti-thyroid medications - Radioactive iodine therapy - Surgery,Methimazole - Propylthiouracil
+Hypothyroidism,Fatigue - Weight gain - Dry skin - Cold intolerance - Depression,Thyroid hormone replacement therapy,Levothyroxine
+Vitamin D Deficiency,Fatigue - Bone pain - Muscle weakness - Depression - Impaired wound healing,Sun exposure - Vitamin D supplements,Ergocalciferol - Cholecalciferol
+Iron Deficiency Anemia,Fatigue - Weakness - Pale skin - Shortness of breath - Cold hands and feet,Iron-rich diet - Iron supplements - Vitamin C-rich foods,Ferrous sulfate - Iron polysaccharide
+Sjögren's Syndrome,Dry eyes - Dry mouth - Joint pain - Fatigue - Swollen salivary glands,Artificial tears - Saliva substitutes - Medications - Dental care,Hydroxychloroquine - Cyclosporine
+Hantavirus Pulmonary Syndrome,Fever - Muscle aches - Shortness of breath - Cough - Fatigue,Avoidance of rodent-infested areas - Rodent control - Supportive care,No specific drugs for treatment
+Ankylosing Spondylitis,Lower back pain - Stiffness - Fatigue - Reduced flexibility - Hip pain,Exercise - Medications - Physical therapy,NSAIDs - TNF inhibitors
+Chlamydia,Genital discharge - Painful urination - Abdominal pain - Pain during sex,Sexual education - Safe sex practices - Antibiotics,Azithromycin - Doxycycline
+Gonorrhea,Genital discharge - Painful urination - Abdominal pain - Pain during sex,Sexual education - Safe sex practices - Antibiotics,Ceftriaxone - Azithromycin
+Syphilis,Small painless sores - Rash - Fatigue - Fever - Hair loss,Sexual education - Safe sex practices - Antibiotics,Penicillin - Doxycycline
+Trichomoniasis,Genital itching - Discharge - Painful urination - Odor,Sexual education - Safe sex practices - Antibiotics,Metronidazole - Tinidazole
+Bacterial Vaginosis,Grayish-white vaginal discharge - Fishy odor - Itching - Burning during urination,Sexual education - Safe sex practices - Antibiotics,Metronidazole - Clindamycin
+Pelvic Inflammatory Disease (PID),Pelvic pain - Abnormal vaginal discharge - Painful urination - Pain during sex - Fever,Early diagnosis and treatment - Antibiotics,Ceftriaxone - Doxycycline
+Laryngitis,Hoarseness - Sore throat - Cough - Difficulty swallowing - Dry throat,Rest your voice - Hydration - Humidified air - Avoid irritants,Lossenges - Cough syrup
+Gallstones,Abdominal pain - Jaundice - Nausea - Vomiting - Fever,Low-fat diet - Hydration - Medications - Surgery,Ursodeoxycholic acid - Cholecystectomy
+Addisonian Crisis,Weakness - Fatigue - Nausea - Vomiting - Low blood pressure,Immediate medical attention - Intravenous fluids - Corticosteroids,Hydrocortisone - Dexamethasone
+Pulmonary Embolism,Shortness of breath - Chest pain - Rapid heart rate - Coughing up blood - Sweating,Immediate medical attention - Blood thinners - Oxygen therapy,Heparin - Warfarin
+Frostbite,Numbness - Tingling - Pale or hardened skin - Joint and muscle stiffness,Warm the affected area gradually - Avoid rubbing - Rewarm with warm water,Analgesics - Ibuprofen
+Cervical Spondylosis,Neck pain - Stiffness - Headaches - Numbness or weakness in limbs,Neck exercises - Good posture - Medications - Physical therapy,NSAIDs - Muscle relaxants
+Urinary Incontinence,Frequent urination - Sudden urge to urinate - Leakage of urine,Bladder training - Pelvic floor exercises - Medications - Incontinence products,Anticholinergics - Mirabegron
+Costochondritis,Chest pain - Tenderness around the sternum - Pain exacerbated by movement or touch,Rest - Anti-inflammatory medications - Heat or ice therapy,NSAIDs - Acetaminophen
+Achilles Tendinitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Shin Splints,Pain along the inner edge of the shinbone - Tenderness - Swelling,Rest - Ice therapy - Stretching - Proper footwear,NSAIDs - Compression sleeves
+Esophageal Varices,Swollen veins in the esophagus - Difficulty swallowing - Vomiting blood - Black, tarry stools,Alcohol cessation - Medications - Endoscopic procedures - Liver transplant,Beta blockers - Octreotide
+Gastroparesis,Nausea - Vomiting - Abdominal pain - Feeling full quickly - Weight loss,Dietary changes - Medications - Feeding tube - Surgery,Metoclopramide - Erythromycin
+Myocarditis,Chest pain - Fatigue - Shortness of breath - Rapid or irregular heartbeats,Rest - Medications - Supportive care - Heart failure management,NSAIDs - ACE inhibitors
+Pleurisy,Chest pain - Sharp or stabbing pain during breathing - Shortness of breath,Rest - Pain management - Treat underlying cause,NSAIDs - Antibiotics
+Tinnitus,Ringing, buzzing, or hissing sound in the ears - Hearing loss - Dizziness,Avoid loud noises - Masking devices - Cognitive-behavioral therapy - Medications,Amitriptyline - Alprazolam
+Pulmonary Hypertension,Shortness of breath - Fatigue - Chest pain - Rapid heartbeat,Medications - Oxygen therapy - Surgery - Lifestyle changes,Prostacyclin analogs - Endothelin receptor antagonists
+Achalasia,Dysphagia - Regurgitation - Chest pain - Weight loss,Dilation - Botox injections - Medications - Surgery,Nitrates - Calcium channel blockers
+Aplastic Anemia,Fatigue - Pale skin - Shortness of breath - Frequent infections - Easy bruising,Medications - Blood transfusions - Bone marrow transplant,ATG (Anti-thymocyte globulin) - Cyclosporine
+Fibrous Dysplasia,Bone pain - Deformities - Fractures - Limited range of motion,Monitoring - Pain management - Surgery - Physical therapy,Bisphosphonates - Surgical intervention
+Familial Hypercholesterolemia,Elevated cholesterol levels - Xanthomas (cholesterol deposits under the skin) - Premature heart disease,Cholesterol-lowering diet - Medications - Lifestyle changes,Statins - Ezetimibe
+Ménière's Disease,Vertigo - Hearing loss - Tinnitus - Ear fullness,Low-sodium diet - Medications for vertigo - Stress management - Vestibular rehabilitation,Meclizine - Diazepam
+Vulvodynia,Chronic vulvar pain - Burning or stinging sensation - Pain during intercourse,Topical anesthetics - Physical therapy - Medications - Psychotherapy,Amitriptyline - Gabapentin
+Chronic Fatigue Syndrome,Severe fatigue - Sleep disturbances - Joint and muscle pain - Cognitive difficulties,Rest - Cognitive-behavioral therapy - Graded exercise therapy,Medications for symptom management
+Mitral Valve Prolapse,Chest pain - Palpitations - Fatigue - Dizziness - Shortness of breath,Monitoring - Medications - Lifestyle changes - Regular check-ups,Beta blockers - Calcium channel blockers
+Hashimoto's Thyroiditis,Fatigue - Weight gain - Dry skin - Hair loss - Cold intolerance,Thyroid hormone replacement therapy,Levothyroxine
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin-converting enzyme (ACE) inhibitors - Diuretics
+Pancreatitis,Abdominal pain - Nausea - Vomiting - Fever - Rapid pulse,Fasting - Pain management - Nutritional support - Avoid alcohol and fatty foods,Morphine - Omeprazole
+Dyslexia,Difficulty reading - Spelling challenges - Slow reading - Poor handwriting - Difficulty with phonics,Educational interventions - Reading programs - Speech therapy,No specific drugs for treatment
+Autism Spectrum Disorder (ASD),Social challenges - Repetitive behaviors - Communication difficulties - Sensory sensitivities,Early intervention - Applied Behavior Analysis (ABA) - Speech therapy - Occupational therapy,No specific drugs for core symptoms
+Chronic Lymphocytic Leukemia (CLL),Fatigue - Enlarged lymph nodes - Night sweats - Weight loss,Watchful waiting - Chemotherapy - Targeted therapy - Immunotherapy,Fludarabine - Ibrutinib
+Cerebral Palsy,Muscle stiffness - Weakness - Poor coordination - Speech difficulties - Seizures,Physical therapy - Occupational therapy - Speech therapy - Assistive devices,Baclofen - Diazepam
+Hypoparathyroidism,Tingling in extremities - Muscle cramps - Fatigue - Dry skin - Abdominal pain,Calcium supplements - Vitamin D supplements - Magnesium supplements,Calcitriol - Alfacalcidol
+Brucellosis,Fever - Sweating - Fatigue - Joint pain - Headache,Avoid unpasteurized dairy products - Antibiotics - Animal vaccination,Doxycycline - Rifampin
+Strep Throat,Sore throat - Fever - Headache - Swollen tonsils - Difficulty swallowing,Antibiotics - Rest - Hydration - Throat lozenges,Penicillin - Amoxicillin
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Diabetic Neuropathy,Numbness or tingling in extremities - Loss of sensation - Burning pain - Muscle weakness,Blood sugar control - Medications - Foot care - Physical therapy,Gabapentin - Pregabalin
+Hemorrhagic Stroke,Sudden severe headache - Weakness or numbness on one side - Confusion - Difficulty speaking,Immediate medical attention - Rehabilitation - Medications for prevention,Aspirin - Clopidogrel
+Bulging Disc,Back or neck pain - Numbness or tingling - Weakness - Radiating pain,Rest - Physical therapy - Medications - Heat or ice therapy,NSAIDs - Muscle relaxants
+Dissociative Identity Disorder (DID),Memory gaps - Identity shifts - Distinct personalities - Mood swings,Psychotherapy - Supportive care - Medications for co-occurring conditions,Selective serotonin reuptake inhibitors (SSRIs) - Antipsychotics
+Chronic Pancreatitis,Abdominal pain - Nausea - Vomiting - Weight loss - Steatorrhea (fatty stools),Low-fat diet - Pancreatic enzyme supplements - Abstinence from alcohol - Pain management,Omeprazole - Pancrelipase
+Pulmonary Edema,Shortness of breath - Cough - Rapid breathing - Pink or frothy sputum,Immediate medical attention - Oxygen therapy - Diuretics - Positioning,Furosemide - Nitroglycerin
+Stevens-Johnson Syndrome,Skin rash - Blistering - Fever - Joint pain - Lesions on mucous membranes,Hospitalization - Supportive care - Medications - Avoidance of triggering drugs,Corticosteroids - Intravenous immunoglobulin
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Ménière's Disease,Vertigo - Hearing loss - Tinnitus - Ear fullness,Low-sodium diet - Medications for vertigo - Stress management - Vestibular rehabilitation,Meclizine - Diazepam
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+Neurofibromatosis,Skin tumors - Café-au-lait spots - Bone deformities - Learning disabilities,Regular check-ups - Surgery - Medications for symptom management,Aspirin - Statins
+Amyloidosis,Fatigue - Swelling - Weight loss - Shortness of breath - Kidney dysfunction,Medications - Chemotherapy - Stem cell transplant - Supportive care,Bortezomib - Melphalan
+Pulmonary Hypertension,Shortness of breath - Fatigue - Chest pain - Rapid heartbeat,Medications - Oxygen therapy - Surgery - Lifestyle changes,Prostacyclin analogs - Endothelin receptor antagonists
+Pemphigus,Blistering of the skin and mucous membranes - Painful sores - Itching - Ulceration,Immunosuppressive therapy - Steroids - Medications for wound care,Prednisone - Rituximab
+Arnold-Chiari Malformation,Headache - Neck pain - Dizziness - Difficulty swallowing - Weakness,Medications for pain management - Surgery - Physical therapy,Acetaminophen - Gabapentin
+Ventricular Septal Defect (VSD),Heart murmur - Rapid breathing - Poor weight gain - Fatigue,Surgery - Medications - Monitoring,Diuretics - ACE inhibitors
+Cystic Fibrosis,Chronic cough - Recurrent lung infections - Difficulty breathing - Malabsorption,Medications - Chest physiotherapy - Oxygen therapy - Lung transplant,Ivacaftor - Dornase alfa
+Hemochromatosis,Fatigue - Joint pain - Abdominal pain - Liver dysfunction - Diabetes,Phlebotomy - Iron-chelating medications - Dietary changes - Monitoring,Deferoxamine - Deferasirox
+Wolff-Parkinson-White Syndrome,Rapid heartbeat - Palpitations - Dizziness - Fainting,Medications - Radiofrequency catheter ablation,Adenosine - Beta blockers
+Lactose Intolerance,Abdominal pain - Diarrhea - Bloating - Flatulence - Nausea,Limiting lactose intake - Lactase supplements - Dairy alternatives,Lactase supplements - Probiotics
+Hirschsprung's Disease,Chronic constipation - Abdominal distension - Vomiting - Failure to thrive,Surgery - Medications for symptom management,Colostomy - Bowel resection
+Staphylococcal Infections,Skin infections - Abscesses - Boils - Pneumonia - Bloodstream infections,Proper hygiene - Antibiotics - Wound care - Infection control,Cephalexin - Vancomycin
+Myocardial Infarction (Heart Attack),Chest pain or discomfort - Shortness of breath - Sweating - Nausea,Immediate medical attention - Aspirin - Nitroglycerin - Oxygen therapy,Thrombolytics - Beta blockers
+Achalasia,Dysphagia - Regurgitation - Chest pain - Weight loss,Dilation - Botox injections - Medications - Surgery,Nitrates - Calcium channel blockers
+Myelodysplastic Syndromes (MDS),Fatigue - Weakness - Shortness of breath - Easy bruising - Infections,Blood transfusions - Medications - Bone marrow transplant - Supportive care,Azacitidine - Lenalidomide
+Vestibular Neuritis,Dizziness - Vertigo - Nausea - Unsteady gait,Rest - Medications for nausea - Vestibular rehabilitation,Meclizine - Dimenhydrinate
+Chronic Myeloid Leukemia (CML),Fatigue - Enlarged spleen - Night sweats - Weight loss,Tyrosine kinase inhibitors - Chemotherapy - Bone marrow transplant,Imatinib - Dasatinib
+Chronic Obstructive Pulmonary Disease (COPD),Chronic cough - Shortness of breath - Wheezing - Chest tightness,Smoking cessation - Bronchodilators - Inhaled corticosteroids - Pulmonary rehabilitation,Albuterol - Tiotropium
+Cervical Dysplasia,Abnormal Pap smear results - Genital warts - Vaginal bleeding,Monitoring - Medications - Cryotherapy - Loop electrosurgical excision procedure (LEEP),Imiquimod - Podophyllin
+Prader-Willi Syndrome,Feeding difficulties in infancy - Hyperphagia (overeating) - Obesity - Intellectual disability - Hypogonadism,Early intervention - Growth hormone therapy - Behavior management,Genotropin - Levothyroxine
+Hepatitis B,Jaundice - Fatigue - Abdominal pain - Dark urine - Joint pain,HBV vaccination - Antiviral medications - Safe sex practices - Avoidance of contaminated blood,Tenofovir - Entecavir
+Hepatitis C,Jaundice - Fatigue - Abdominal pain - Dark urine - Joint pain,Direct-acting antiviral drugs - Peginterferon - Ribavirin,Sofosbuvir - Ledipasvir
+Inflammatory Bowel Disease (IBD),Abdominal pain - Diarrhea - Weight loss - Fatigue - Bloody stools,Dietary changes - Medications - Surgery - Stress management,5-aminosalicylates - Corticosteroids
+Restless Legs Syndrome (RLS),Uncomfortable sensations in legs - Urge to move legs - Disrupted sleep - Tingling or crawling sensations,Medications - Lifestyle adjustments - Iron supplements,Pramipexole - Ropinirole
+Interstitial Cystitis (IC),Pelvic pain - Urgency to urinate - Frequent urination - Pain during intercourse - Painful bladder,Bladder training - Dietary modifications - Medications - Physical therapy,Elmiron - Amitriptyline
+Multiple Sclerosis,Fatigue - Numbness or tingling - Muscle weakness - Blurred or double vision - Problems with coordination,Medications - Physical therapy - Lifestyle adjustments - Supportive care,Fingolimod - Interferon beta-1a
+Amyotrophic Lateral Sclerosis (ALS),Muscle weakness - Difficulty speaking - Difficulty swallowing - Muscle cramps - Twitching,Supportive care - Assistive devices - Medications - Respiratory support,Riluzole - Edaravone
+Pulmonary Fibrosis,Shortness of breath - Persistent cough - Fatigue - Chest discomfort - Finger clubbing,Medications - Oxygen therapy - Pulmonary rehabilitation - Lung transplant,Pirfenidone - Nintedanib
+Sickle Cell Anemia,Anemia - Painful crises - Jaundice - Fatigue - Frequent infections,Hydration - Pain management - Blood transfusions - Hydroxyurea,Hydroxyurea - L-glutamine
+Myasthenia Gravis,Muscle weakness - Fatigue - Difficulty swallowing - Double vision - Facial drooping,Medications - Thymectomy - Plasmapheresis - Supportive care,Pyridostigmine - Immunosuppressants
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin
+Atrial Fibrillation,Heart palpitations - Irregular heartbeat - Fatigue - Shortness of breath,Blood thinners - Medications to control heart rate - Cardioversion - Catheter ablation,Warfarin - Dabigatran
+Sjögren's Syndrome,Dry eyes - Dry mouth - Joint pain - Fatigue - Swollen salivary glands,Artificial tears - Saliva substitutes - Medications - Dental care,Hydroxychloroquine - Cyclosporine
+Hantavirus Pulmonary Syndrome,Fever - Muscle aches - Shortness of breath - Cough - Fatigue,Avoidance of rodent-infested areas - Rodent control - Supportive care,No specific drugs for treatment
+Ankylosing Spondylitis,Lower back pain - Stiffness - Fatigue - Reduced flexibility - Hip pain,Exercise - Medications - Physical therapy,NSAIDs - TNF inhibitors
+Chlamydia,Genital discharge - Painful urination - Abdominal pain - Pain during sex,Sexual education - Safe sex practices - Antibiotics,Azithromycin - Doxycycline
+Gonorrhea,Genital discharge - Painful urination - Abdominal pain - Pain during sex,Sexual education - Safe sex practices - Antibiotics,Ceftriaxone - Azithromycin
+Syphilis,Small painless sores - Rash - Fatigue - Fever - Hair loss,Sexual education - Safe sex practices - Antibiotics,Penicillin - Doxycycline
+Trichomoniasis,Genital itching - Discharge - Painful urination - Odor,Sexual education - Safe sex practices - Antibiotics,Metronidazole - Tinidazole
+Bacterial Vaginosis,Grayish-white vaginal discharge - Fishy odor - Itching - Burning during urination,Sexual education - Safe sex practices - Antibiotics,Metronidazole - Clindamycin
+Pelvic Inflammatory Disease (PID),Pelvic pain - Abnormal vaginal discharge - Painful urination - Pain during sex - Fever,Early diagnosis and treatment - Antibiotics,Ceftriaxone - Doxycycline
+Laryngitis,Hoarseness - Sore throat - Cough - Difficulty swallowing - Dry throat,Rest your voice - Hydration - Humidified air - Avoid irritants,Lossenges - Cough syrup
+Gallstones,Abdominal pain - Jaundice - Nausea - Vomiting - Fever,Low-fat diet - Hydration - Medications - Surgery,Ursodeoxycholic acid - Cholecystectomy
+Addisonian Crisis,Weakness - Fatigue - Nausea - Vomiting - Low blood pressure,Immediate medical attention - Intravenous fluids - Corticosteroids,Hydrocortisone - Dexamethasone
+Pulmonary Embolism,Shortness of breath - Chest pain - Rapid heart rate - Coughing up blood - Sweating,Immediate medical attention - Blood thinners - Oxygen therapy,Heparin - Warfarin
+Frostbite,Numbness - Tingling - Pale or hardened skin - Joint and muscle stiffness,Warm the affected area gradually - Avoid rubbing - Rewarm with warm water,Analgesics - Ibuprofen
+Cervical Spondylosis,Neck pain - Stiffness - Headaches - Numbness or weakness in limbs,Neck exercises - Good posture - Medications - Physical therapy,NSAIDs - Muscle relaxants
+Urinary Incontinence,Frequent urination - Sudden urge to urinate - Leakage of urine,Bladder training - Pelvic floor exercises - Medications - Incontinence products,Anticholinergics - Mirabegron
+Costochondritis,Chest pain - Tenderness around the sternum - Pain exacerbated by movement or touch,Rest - Anti-inflammatory medications - Heat or ice therapy,NSAIDs - Acetaminophen
+Achilles Tendinitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Shin Splints,Pain along the inner edge of the shinbone - Tenderness - Swelling,Rest - Ice therapy - Stretching - Proper footwear,NSAIDs - Compression sleeves
+Esophageal Varices,Swollen veins in the esophagus - Difficulty swallowing - Vomiting blood - Black, tarry stools,Alcohol cessation - Medications - Endoscopic procedures - Liver transplant,Beta blockers - Octreotide
+Gastroparesis,Nausea - Vomiting - Abdominal pain - Feeling full quickly - Weight loss,Dietary changes - Medications - Feeding tube - Surgery,Metoclopramide - Erythromycin
+Myocarditis,Chest pain - Fatigue - Shortness of breath - Rapid or irregular heartbeats,Rest - Medications - Supportive care - Heart failure management,NSAIDs - ACE inhibitors
+Pleurisy,Chest pain - Sharp or stabbing pain during breathing - Shortness of breath,Rest - Pain management - Treat underlying cause,NSAIDs - Antibiotics
+Tinnitus,Ringing, buzzing, or hissing sound in the ears - Hearing loss - Dizziness,Avoid loud noises - Masking devices - Cognitive-behavioral therapy - Medications,Amitriptyline - Alprazolam
+Pulmonary Hypertension,Shortness of breath - Fatigue - Chest pain - Rapid heartbeat,Medications - Oxygen therapy - Surgery - Lifestyle changes,Prostacyclin analogs - Endothelin receptor antagonists
+Achalasia,Dysphagia - Regurgitation - Chest pain - Weight loss,Dilation - Botox injections - Medications - Surgery,Nitrates - Calcium channel blockers
+Aplastic Anemia,Fatigue - Weakness - Pale skin - Shortness of breath - Frequent infections,Medications - Blood transfusions - Bone marrow transplant,ATG (Anti-thymocyte globulin) - Cyclosporine
+Fibrous Dysplasia,Bone pain - Deformities - Fractures - Limited range of motion,Monitoring - Pain management - Surgery - Physical therapy,Bisphosphonates - Surgical intervention
+Familial Hypercholesterolemia,Elevated cholesterol levels - Xanthomas (cholesterol deposits under the skin) - Premature heart disease,Cholesterol-lowering diet - Medications - Lifestyle changes,Statins - Ezetimibe
+Ménière's Disease,Vertigo - Hearing loss - Tinnitus - Ear fullness,Low-sodium diet - Medications for vertigo - Stress management - Vestibular rehabilitation,Meclizine - Diazepam
+Vulvodynia,Chronic vulvar pain - Burning or stinging sensation - Pain during intercourse,Topical anesthetics - Physical therapy - Medications - Psychotherapy,Amitriptyline - Gabapentin
+Chronic Fatigue Syndrome,Severe fatigue - Sleep disturbances - Joint and muscle pain - Cognitive difficulties,Rest - Cognitive-behavioral therapy - Graded exercise therapy,Medications for symptom management
+Mitral Valve Prolapse,Chest pain - Palpitations - Fatigue - Dizziness - Shortness of breath,Monitoring - Medications - Lifestyle changes - Regular check-ups,Beta blockers - Calcium channel blockers
+Hashimoto's Thyroiditis,Fatigue - Weight gain - Dry skin - Hair loss - Cold intolerance,Thyroid hormone replacement therapy,Levothyroxine
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin-converting enzyme (ACE) inhibitors - Diuretics
+Pancreatitis,Abdominal pain - Nausea - Vomiting - Fever - Rapid pulse,Fasting - Pain management - Nutritional support - Avoid alcohol and fatty foods,Morphine - Omeprazole
+Dyslexia,Difficulty reading - Spelling challenges - Slow reading - Poor handwriting - Difficulty with phonics,Educational interventions - Reading programs - Speech therapy,No specific drugs for treatment
+Autism Spectrum Disorder (ASD),Social challenges - Repetitive behaviors - Communication difficulties - Sensory sensitivities,Early intervention - Applied Behavior Analysis (ABA) - Speech therapy - Occupational therapy,No specific drugs for core symptoms
+Chronic Lymphocytic Leukemia (CLL),Fatigue - Enlarged lymph nodes - Night sweats - Weight loss,Watchful waiting - Chemotherapy - Targeted therapy - Immunotherapy,Fludarabine - Ibrutinib
+Cerebral Palsy,Muscle stiffness - Weakness - Poor coordination - Speech difficulties - Seizures,Physical therapy - Occupational therapy - Speech therapy - Assistive devices,Baclofen - Diazepam
+Hypoparathyroidism,Tingling in extremities - Muscle cramps - Fatigue - Dry skin - Abdominal pain,Calcium supplements - Vitamin D supplements - Magnesium supplements,Calcitriol - Alfacalcidol
+Brucellosis,Fever - Sweating - Fatigue - Joint pain - Headache,Avoid unpasteurized dairy products - Antibiotics - Animal vaccination,Doxycycline - Rifampin
+Strep Throat,Sore throat - Fever - Headache - Swollen tonsils - Difficulty swallowing,Antibiotics - Rest - Hydration - Throat lozenges,Penicillin - Amoxicillin
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Diabetic Neuropathy,Numbness or tingling in extremities - Loss of sensation - Burning pain - Muscle weakness,Blood sugar control - Medications - Foot care - Physical therapy,Gabapentin - Pregabalin
+Hemorrhagic Stroke,Sudden severe headache - Weakness or numbness on one side - Confusion - Difficulty speaking,Immediate medical attention - Rehabilitation - Medications for prevention,Aspirin - Clopidogrel
+Bulging Disc,Back or neck pain - Numbness or tingling - Weakness - Radiating pain,Rest - Physical therapy - Medications - Heat or ice therapy,NSAIDs - Muscle relaxants
+Dissociative Identity Disorder (DID),Memory gaps - Identity shifts - Distinct personalities - Mood swings,Psychotherapy - Supportive care - Medications for co-occurring conditions,Selective serotonin reuptake inhibitors (SSRIs) - Antipsychotics
+Chronic Pancreatitis,Abdominal pain - Nausea - Vomiting - Weight loss - Steatorrhea (fatty stools),Low-fat diet - Pancreatic enzyme supplements - Abstinence from alcohol - Pain management,Omeprazole - Pancrelipase
+Pulmonary Edema,Shortness of breath - Cough - Rapid breathing - Pink or frothy sputum,Immediate medical attention - Oxygen therapy - Diuretics - Positioning,Furosemide - Nitroglycerin
+Stevens-Johnson Syndrome,Skin rash - Blistering - Fever - Joint pain - Lesions on mucous membranes,Hospitalization - Supportive care - Medications - Avoidance of triggering drugs,Corticosteroids - Intravenous immunoglobulin
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Ménière's Disease,Vertigo - Hearing loss - Tinnitus - Ear fullness,Low-sodium diet - Medications for vertigo - Stress management - Vestibular rehabilitation,Meclizine - Diazepam
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+fibromyalgia,Chronic pain - Fatigue - Sleep disturbances - Joint stiffness,Regular exercise - Stress management - Medications - Cognitive-behavioral therapy,Duloxetine - Pregabalin
+Tourette Syndrome,Tics - Vocal outbursts - Repetitive movements - Behavioral issues,Behavioral therapy - Medications - Supportive care,Haloperidol - Clonidine
+Fungal Nail Infection,Thickened nails - Discoloration - Brittleness - Foul odor,Good foot hygiene - Antifungal medications - Avoiding tight shoes,Fluconazole - Terbinafine
+Gastroenteritis,Diarrhea - Vomiting - Abdominal cramps - Fever,Hydration - Rest - Avoiding contaminated food and water - Good hygiene,Oral rehydration solution - Loperamide
+Hyperthyroidism,Weight loss - Rapid heartbeat - Nervousness - Fatigue - Sweating,Medications - Radioactive iodine therapy - Surgery,Methimazole - Propylthiouracil
+Hypothyroidism,Weight gain - Fatigue - Dry skin - Hair loss - Cold intolerance,Thyroid hormone replacement therapy,Levothyroxine
+Polycystic Ovary Syndrome (PCOS),Irregular periods - Ovulatory dysfunction - Hirsutism - Acne - Insulin resistance,Lifestyle changes - Medications - Hormonal therapy,Metformin - Combined oral contraceptives
+Premenstrual Syndrome (PMS),Mood swings - Fatigue - Bloating - Breast tenderness - Irritability,Lifestyle changes - Medications - Stress management,NSAIDs - Selective serotonin reuptake inhibitors (SSRIs)
+Vitamin D Deficiency,Fatigue - Bone pain - Muscle weakness - Joint pain,Vitamin D supplementation - Sun exposure - Dietary changes,Cholecalciferol - Ergocalciferol
+Ovarian Cyst,Pelvic pain - Bloating - Irregular menstruation - Pain during sex,Watchful waiting - Birth control pills - Surgery - Pain management,Oral contraceptives - NSAIDs
+Impetigo,Red sores - Blisters - Itching - Yellowish-brown crusts,Good hygiene - Antibiotic ointment - Oral antibiotics,Mupirocin - Cephalexin
+Molluscum Contagiosum,Small flesh-colored bumps - Itching - Rash,Avoid skin-to-skin contact - Avoid sharing personal items - Cryotherapy - Topical treatments,Imiquimod - Cantharidin
+Migraine,Severe headache - Nausea - Sensitivity to light and sound,Identifying triggers - Medications for acute attacks - Preventive medications,Sumatriptan - Propranolol
+Chronic Obstructive Pulmonary Disease (COPD),Chronic cough - Shortness of breath - Wheezing - Chest tightness,Smoking cessation - Bronchodilators - Inhaled corticosteroids - Pulmonary rehabilitation,Albuterol - Tiotropium
+Gastritis,Abdominal pain - Nausea - Vomiting - Loss of appetite,Acid-reducing medications - Dietary changes - Avoiding irritants - Stress management,Omeprazole - Ranitidine
+Raynaud's Disease,Numbness or tingling in fingers and toes - Color changes in extremities,Keeping warm - Stress management - Medications,Calcium channel blockers - Nifedipine
+Gingivitis,Redness and swelling of gums - Bleeding gums - Bad breath,Good oral hygiene - Regular dental check-ups - Antiseptic mouthwashes,Chlorhexidine - Fluoride toothpaste
+Interstitial Cystitis (IC),Pelvic pain - Urgency to urinate - Frequent urination - Pain during intercourse - Painful bladder,Bladder training - Dietary modifications - Medications - Physical therapy,Elmiron - Amitriptyline
+Restless Legs Syndrome (RLS),Uncomfortable sensations in legs - Urge to move legs - Disrupted sleep - Tingling or crawling sensations,Medications - Lifestyle adjustments - Iron supplements,Pramipexole - Ropinirole
+Osteoporosis,Fractures - Loss of height - Back pain - Stooped posture,Calcium and vitamin D supplementation - Weight-bearing exercises - Medications,Alendronate - Risedronate
+Aphthous Ulcers,Mouth sores - Painful ulcers - Difficulty eating or talking,Avoiding trigger foods - Topical treatments - Mouth rinses,Corticosteroid ointments - Topical anesthetics
+Lupus,Joint pain - Fatigue - Skin rashes - Fever - Kidney problems,Medications - Sun protection - Regular check-ups - Lifestyle modifications,Hydroxychloroquine - Prednisone
+Insomnia,Difficulty falling or staying asleep - Daytime fatigue - Impaired concentration,Sleep hygiene - Cognitive-behavioral therapy for insomnia (CBT-I) - Medications,Melatonin - Zolpidem
+Otitis Media,Ear pain - Hearing loss - Fluid drainage - Fever,Antibiotics - Pain management - Warm compresses - Ear drops,Amoxicillin - Ciprofloxacin
+Gastroesophageal Reflux Disease (GERD),Heartburn - Regurgitation - Chest pain - Difficulty swallowing,Lifestyle changes - Acid-reducing medications - Avoiding trigger foods,Omeprazole - Ranitidine
+Bruxism (Teeth Grinding),Jaw pain - Tooth sensitivity - Headaches - Worn-down teeth,Stress management - Mouthguards - Dental care,Botulinum toxin injections - Muscle relaxants
+Bacterial Pneumonia,Cough - Fever - Shortness of breath - Chest pain,Antibiotics - Rest - Hydration - Pain management,Amoxicillin - Azithromycin
+Fibroids (Uterine),Pelvic pain - Heavy menstrual bleeding - Frequent urination - Backache,Watchful waiting - Medications - Surgery - Uterine artery embolization,NSAIDs - Birth control pills
+Lyme Disease,Fatigue - Fever - Headache - Muscle and joint aches - Bull's-eye rash,Preventing tick bites - Antibiotics,Doxycycline - Amoxicillin
+Dysmenorrhea (Menstrual Cramps),Abdominal pain - Backache - Headache - Nausea,Heat therapy - Pain medications - Birth control pills,Ibuprofen - Naproxen
+Bell's Palsy,Facial weakness or paralysis on one side - Drooping of the mouth or eye - Loss of taste,Treat underlying cause - Physical therapy - Eye protection,Prednisone - Antiviral medications
+Hemorrhoids,Rectal bleeding - Itching - Pain during bowel movements,High-fiber diet - Sitz baths - Topical treatments - Lifestyle changes,Hydrocortisone - Witch hazel
+Cushing's Syndrome,Weight gain - Fatigue - High blood pressure - Moon face - Easy bruising,Treat underlying cause - Medications - Surgery,Metyrapone - Ketoconazole
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Bell's Palsy,Facial weakness or paralysis on one side - Drooping of the mouth or eye - Loss of taste,Treat underlying cause - Physical therapy - Eye protection,Prednisone - Antiviral medications
+Hemorrhoids,Rectal bleeding - Itching - Pain during bowel movements,High-fiber diet - Sitz baths - Topical treatments - Lifestyle changes,Hydrocortisone - Witch hazel
+Cushing's Syndrome,Weight gain - Fatigue - High blood pressure - Moon face - Easy bruising,Treat underlying cause - Medications - Surgery,Metyrapone - Ketoconazole
+Hypoparathyroidism,Tingling in extremities - Muscle cramps - Fatigue - Dry skin - Abdominal pain,Calcium supplements - Vitamin D supplements - Magnesium supplements,Calcitriol - Alfacalcidol
+Brucellosis,Fever - Sweating - Fatigue - Joint pain - Headache,Avoid unpasteurized dairy products - Antibiotics - Animal vaccination,Doxycycline - Rifampin
+Strep Throat,Sore throat - Fever - Headache - Swollen tonsils - Difficulty swallowing,Antibiotics - Rest - Hydration - Throat lozenges,Penicillin - Amoxicillin
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Diabetic Neuropathy,Numbness or tingling in extremities - Loss of sensation - Burning pain - Muscle weakness,Blood sugar control - Medications - Foot care - Physical therapy,Gabapentin - Pregabalin
+Hemorrhagic Stroke,Sudden severe headache - Weakness or numbness on one side - Confusion - Difficulty speaking,Immediate medical attention - Rehabilitation - Medications for prevention,Aspirin - Clopidogrel
+Bulging Disc,Back or neck pain - Numbness or tingling - Weakness - Radiating pain,Rest - Physical therapy - Medications - Heat or ice therapy,NSAIDs - Muscle relaxants
+Dissociative Identity Disorder (DID),Memory gaps - Identity shifts - Distinct personalities - Mood swings,Psychotherapy - Supportive care - Medications for co-occurring conditions,Selective serotonin reuptake inhibitors (SSRIs) - Antipsychotics
+Chronic Pancreatitis,Abdominal pain - Nausea - Vomiting - Weight loss - Steatorrhea (fatty stools),Low-fat diet - Pancreatic enzyme supplements - Abstinence from alcohol - Pain management,Omeprazole - Pancrelipase
+Pulmonary Edema,Shortness of breath - Cough - Rapid breathing - Pink or frothy sputum,Immediate medical attention - Oxygen therapy - Diuretics - Positioning,Furosemide - Nitroglycerin
+Stevens-Johnson Syndrome,Skin rash - Blistering - Fever - Joint pain - Lesions on mucous membranes,Hospitalization - Supportive care - Medications - Avoidance of triggering drugs,Corticosteroids - Intravenous immunoglobulin
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+Neuroblastoma,Abdominal mass - Weight loss - Fatigue - Bone pain,Chemotherapy - Surgery - Radiation therapy - Immunotherapy,Cyclophosphamide - Doxorubicin
+Maple Syrup Urine Disease (MSUD),Sweet-smelling urine - Poor feeding - Vomiting - Neurological symptoms,Dietary restrictions - Amino acid supplements - Monitoring,Biotin - Thiamine
+Lewy Body Dementia,Mental decline - Visual hallucinations - Parkinsonism symptoms - Fluctuating alertness,Symptomatic treatment - Supportive care - Medications for cognitive symptoms,Donepezil - Rivastigmine
+Achilles Tendonitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Shin Splints,Pain along the inner edge of the shinbone - Tenderness - Swelling,Rest - Ice therapy - Stretching - Proper footwear,NSAIDs - Compression sleeves
+Esophageal Varices,Swollen veins in the esophagus - Difficulty swallowing - Vomiting blood - Black, tarry stools,Alcohol cessation - Medications - Endoscopic procedures - Liver transplant,Beta blockers - Octreotide
+Gastroparesis,Nausea - Vomiting - Abdominal pain - Feeling full quickly - Weight loss,Dietary changes - Medications - Feeding tube - Surgery,Metoclopramide - Erythromycin
+Myocarditis,Chest pain - Fatigue - Shortness of breath - Rapid or irregular heartbeats,Rest - Medications - Supportive care - Heart failure management,NSAIDs -
+Pulmonary Fibrosis,Shortness of breath - Persistent dry cough - Fatigue - Unexplained weight loss,Avoiding lung irritants - Oxygen therapy - Pulmonary rehabilitation - Lung transplant,Pirfenidone - Nintedanib
+Wilson's Disease,Fatigue - Jaundice - Abdominal pain - Neurological symptoms,Low copper diet - Chelation therapy - Liver transplantation,Penicillamine - Trientine
+Hypertrophic Cardiomyopathy,Chest pain - Shortness of breath - Fatigue - Rapid or irregular heartbeat,Monitoring - Medications - Lifestyle changes - Surgery,Beta blockers - Calcium channel blockers
+Essential Tremor,Tremors - Shaking hands - Head nodding - Voice tremor,Avoiding triggers - Medications - Deep brain stimulation,Propranolol - Primidone
+Anorexia Nervosa,Extreme weight loss - Intense fear of gaining weight - Distorted body image,Psychotherapy - Nutritional counseling - Medical monitoring,Olanzapine - Fluoxetine
+Binge Eating Disorder,Episodic overeating - Loss of control - Feelings of guilt or shame,Cognitive-behavioral therapy - Medications - Nutritional counseling,Fluoxetine - Sertraline
+Avoidant/Restrictive Food Intake Disorder (ARFID),Limited food preferences - Avoidance of certain textures or smells - Nutritional deficiencies,Behavioral therapy - Nutritional counseling - Multidisciplinary support,Exposure therapy - Tube feeding
+Interstitial Lung Disease,Shortness of breath - Dry cough - Fatigue - Chest pain,Smoking cessation - Oxygen therapy - Pulmonary rehabilitation - Lung transplant,Corticosteroids - Cyclophosphamide
+Behçet's Disease,Oral ulcers - Genital sores - Eye inflammation - Joint pain,Immunosuppressive therapy - Topical treatments - Eye protection - Lifestyle modifications,Colchicine - Azathioprine
+Pemphigus,Blistering of skin and mucous membranes - Painful sores,Immunosuppressive therapy - Topical treatments - Wound care - Avoiding triggers,Glucocorticoids - Rituximab
+Cirrhosis,Fatigue - Weakness - Abdominal swelling - Jaundice,Alcohol moderation - Dietary changes - Medications - Liver transplant,Ursodeoxycholic acid - Spironolactone
+Hydrocephalus,Headache - Nausea - Vision problems - Cognitive impairment,Shunt placement - Endoscopic third ventriculostomy (ETV) - Medications for symptoms,Acetazolamide - Mannitol
+Retinal Detachment,Floaters - Flashes of light - Vision loss - Curtain-like shadow,Immediate medical attention - Surgical repair - Positioning - Avoiding eye trauma,Cryopexy - Scleral buckle
+Essential Thrombocythemia,Excessive bleeding - Blood clotting - Enlarged spleen - Headache - Dizziness,Aspirin - Hydroxyurea - Anagrelide
+Wegener's Granulomatosis,Sinusitis - Shortness of breath - Cough - Fatigue - Kidney problems,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Inflammatory Bowel Disease (IBD),Abdominal pain - Diarrhea - Weight loss - Fatigue - Blood in stool,Immunosuppressive therapy - Anti-inflammatory medications - Nutritional support,Infliximab - Mesalamine
+Bradykinesia,Slowness of movement - Difficulty initiating movements,Medications - Physical therapy - Occupational therapy - Speech therapy,Levodopa - Pramipexole
+Sturge-Weber Syndrome,Port-wine stain on face - Glaucoma - Seizures - Neurological symptoms,Treatment of symptoms - Laser therapy - Anticonvulsant medications,Clobazam - Topiramate
+Hyponatremia,Confusion - Headache - Nausea - Seizures,Gradual correction of sodium levels - Fluid restriction - Medications for underlying cause,Demeclocycline - Tolvaptan
+Vitamin B12 Deficiency,Fatigue - Weakness - Anemia - Cognitive difficulties,Vitamin B12 supplementation - Dietary changes - Identifying underlying cause,Cyanocobalamin - Methylcobalamin
+Hemolytic Anemia,Fatigue - Shortness of breath - Pale skin - Jaundice,Identifying and treating underlying cause - Blood transfusions - Medications,Folic acid - Corticosteroids
+Sleep Apnea,Loud snoring - Intermittent cessation of breathing - Daytime sleepiness,Continuous positive airway pressure (CPAP) - Lifestyle changes - Weight loss - Oral appliances,CPAP machine - Modafinil
+Ehlers-Danlos Syndrome,Joint hypermobility - Skin that bruises easily - Chronic pain - Joint dislocations,Physical therapy - Pain management - Lifestyle modifications - Bracing,NSAIDs - Physical therapy
+Sickle Cell Anemia,Fatigue - Painful crises - Anemia - Jaundice,Hydration - Pain management - Blood transfusions - Hydroxyurea,Hydroxyurea - Blood transfusions
+Thyroid Eye Disease,Protruding eyes - Double vision - Eye pain - Swelling of eyelids,Smoking cessation - Steroids - Orbital decompression - Eye protection,Prednisone - Rituximab
+Cystic Fibrosis,Chronic cough - Thick mucus - Respiratory infections - Difficulty breathing,Airway clearance techniques - Medications - Pulmonary rehabilitation - Lung transplant,Ivacaftor - Dornase alfa
+Osteomyelitis,Bone pain - Fever - Swelling - Redness - Limited range of motion,IV antibiotics - Surgical drainage - Rest - Immobilization,Ceftriaxone - Vancomycin
+Whipple's Disease,Abdominal pain - Diarrhea - Weight loss - Joint pain,Long-term antibiotic therapy - Nutritional support,Ceftriaxone - Trimethoprim-sulfamethoxazole
+Agoraphobia,Fear of open spaces or crowded places - Avoidance of triggering situations,Exposure therapy - Cognitive-behavioral therapy (CBT) - Medications,Selective serotonin reuptake inhibitors (SSRIs) - Benzodiazepines
+Ovarian Cancer,Abdominal bloating - Pelvic pain - Changes in bowel habits - Fatigue,Surgery - Chemotherapy - Targeted therapy - Radiation therapy,Carboplatin - Paclitaxel
+Sjögren's Syndrome,Dry eyes - Dry mouth - Joint pain - Fatigue - Swollen salivary glands,Artificial tears - Saliva substitutes - Medications - Dental care,Hydroxychloroquine - Cyclosporine
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin-converting enzyme (ACE) inhibitors - Diuretics
+Pancreatitis,Abdominal pain - Nausea - Vomiting - Fever - Rapid pulse,Fasting - Pain management - Nutritional support - Avoid alcohol and fatty foods,Morphine - Omeprazole
+Dyslexia,Difficulty reading - Spelling challenges - Slow reading - Poor handwriting - Difficulty with phonics,Educational interventions - Reading programs - Speech therapy,No specific drugs for treatment
+Autism Spectrum Disorder (ASD),Social challenges - Repetitive behaviors - Communication difficulties - Sensory sensitivities,Early intervention - Applied Behavior Analysis (ABA) - Speech therapy - Occupational therapy,No specific drugs for core symptoms
+Chronic Lymphocytic Leukemia (CLL),Fatigue - Enlarged lymph nodes - Night sweats - Weight loss,Watchful waiting - Chemotherapy - Targeted therapy - Immunotherapy,Fludarabine - Ibrutinib
+Cerebral Palsy,Muscle stiffness - Weakness - Poor coordination - Speech difficulties - Seizures,Physical therapy - Occupational therapy - Speech therapy - Assistive devices,Baclofen - Diazepam
+Hypoparathyroidism,Tingling in extremities - Muscle cramps - Fatigue - Dry skin - Abdominal pain,Calcium supplements - Vitamin D supplements - Magnesium supplements,Calcitriol - Alfacalcidol
+Brucellosis,Fever - Sweating - Fatigue - Joint pain - Headache,Avoid unpasteurized dairy products - Antibiotics - Animal vaccination,Doxycycline - Rifampin
+Strep Throat,Sore throat - Fever - Headache - Swollen tonsils - Difficulty swallowing,Antibiotics - Rest - Hydration - Throat lozenges,Penicillin - Amoxicillin
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Diabetic Neuropathy,Numbness or tingling in extremities - Loss of sensation - Burning pain - Muscle weakness,Blood sugar control - Medications - Foot care - Physical therapy,Gabapentin - Pregabalin
+Hemorrhagic Stroke,Sudden severe headache - Weakness or numbness on one side - Confusion - Difficulty speaking,Immediate medical attention - Rehabilitation - Medications for prevention,Aspirin - Clopidogrel
+Bulging Disc,Back or neck pain - Numbness or tingling - Weakness - Radiating pain,Rest - Physical therapy - Medications - Heat or ice therapy,NSAIDs - Muscle relaxants
+Dissociative Identity Disorder (DID),Memory gaps - Identity shifts - Distinct personalities - Mood swings,Psychotherapy - Supportive care - Medications for co-occurring conditions,Selective serotonin reuptake inhibitors (SSRIs) - Antipsychotics
+Chronic Pancreatitis,Abdominal pain - Nausea - Vomiting - Weight loss - Steatorrhea (fatty stools),Low-fat diet - Pancreatic enzyme supplements - Abstinence from alcohol - Pain management,Omeprazole - Pancrelipase
+Pulmonary Edema,Shortness of breath - Cough - Rapid breathing - Pink or frothy sputum,Immediate medical attention - Oxygen therapy - Diuretics - Positioning,Furosemide - Nitroglycerin
+Stevens-Johnson Syndrome,Skin rash - Blistering - Fever - Joint pain - Lesions on mucous membranes,Hospitalization - Supportive care - Medications - Avoidance of triggering drugs,Corticosteroids - Intravenous immunoglobulin
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+Neuroblastoma,Abdominal mass - Weight loss - Fatigue - Bone pain,Chemotherapy - Surgery - Radiation therapy - Immunotherapy,Cyclophosphamide - Doxorubicin
+Maple Syrup Urine Disease (MSUD),Sweet-smelling urine - Poor feeding - Vomiting - Neurological symptoms,Dietary restrictions - Amino acid supplements - Monitoring,Biotin - Thiamine
+Lewy Body Dementia,Mental decline - Visual hallucinations - Parkinsonism symptoms - Fluctuating alertness,Symptomatic treatment - Supportive care - Medications for cognitive symptoms,Donepezil - Rivastigmine
+Achilles Tendonitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Esophageal Varices,Swollen veins in the esophagus - Difficulty swallowing - Vomiting blood - Black, tarry stools,Alcohol cessation - Medications - Endoscopic procedures - Liver transplant,Beta blockers - Octreotide
+Gastroparesis,Nausea - Vomiting - Abdominal pain - Feeling full quickly - Weight loss,Dietary changes - Medications - Feeding tube - Surgery,Metoclopramide - Erythromycin
+Myocarditis,Chest pain - Fatigue - Shortness of breath - Rapid or irregular heartbeats,Rest - Medications - Supportive care - Heart failure management,NSAIDs - Beta blockers
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+Neuroblastoma,Abdominal mass - Weight loss - Fatigue - Bone pain,Chemotherapy - Surgery - Radiation therapy - Immunotherapy,Cyclophosphamide - Doxorubicin
+Maple Syrup Urine Disease (MSUD),Sweet-smelling urine - Poor feeding - Vomiting - Neurological symptoms,Dietary restrictions - Amino acid supplements - Monitoring,Biotin - Thiamine
+Lewy Body Dementia,Mental decline - Visual hallucinations - Parkinsonism symptoms - Fluctuating alertness,Symptomatic treatment - Supportive care - Medications for cognitive symptoms,Donepezil - Rivastigmine
+Achilles Tendonitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Shin Splints,Pain along the inner edge of the shinbone - Tenderness - Swelling,Rest - Ice therapy - Stretching - Proper footwear,NSAIDs - Compression sleeves
+Esophageal Varices,Swollen veins in the esophagus - Difficulty swallowing - Vomiting blood - Black, tarry stools,Alcohol cessation - Medications - Endoscopic procedures - Liver transplant,Beta blockers - Octreotide
+Gastroparesis,Nausea - Vomiting - Abdominal pain - Feeling full quickly - Weight loss,Dietary changes - Medications - Feeding tube - Surgery,Metoclopramide - Erythromycin
+Myocarditis,Chest pain - Fatigue - Shortness of breath - Rapid or irregular heartbeats,Rest - Medications - Supportive care - Heart failure management,NSAIDs - Beta blockers
+Granulomatosis with Polyangiitis (GPA),Sinusitis - Shortness of breath - Cough - Fatigue - Joint pain,Immunosuppressive therapy - Steroids - Rituximab - Plasmapheresis,Cyclophosphamide - Methotrexate
+Toxoplasmosis,Fever - Muscle aches - Headache - Swollen lymph nodes - Fatigue,Cook meat thoroughly - Wash fruits and vegetables - Avoid contact with cat feces,Pyrithiamine - Sulfadiazine
+Huntington's Disease,Chorea (involuntary movements) - Cognitive decline - Behavioral changes - Difficulty swallowing - Weight loss,Symptomatic treatment - Supportive care - Genetic counseling,No specific drugs for disease modification
+Brugada Syndrome,Irregular heartbeat - Fainting - Sudden cardiac arrest,Implantable cardioverter-defibrillator (ICD) - Avoidance of triggers - Medications,Quinidine - Isoproterenol
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding - Cold extremities,Surgery - Medications - Oxygen therapy,Prostaglandin E1 - Diuretics
+Neuroblastoma,Abdominal mass - Weight loss - Fatigue - Bone pain,Chemotherapy - Surgery - Radiation therapy - Immunotherapy,Cyclophosphamide - Doxorubicin
+Maple Syrup Urine Disease (MSUD),Sweet-smelling urine - Poor feeding - Vomiting - Neurological symptoms,Dietary restrictions - Amino acid supplements - Monitoring,Biotin - Thiamine
+Lewy Body Dementia,Mental decline - Visual hallucinations - Parkinsonism symptoms - Fluctuating alertness,Symptomatic treatment - Supportive care - Medications for cognitive symptoms,Donepezil - Rivastigmine
+Achilles Tendonitis,Heel pain - Swelling - Stiffness - Tenderness,Rest - Ice therapy - Stretching exercises - Orthotic shoes,NSAIDs - Physical therapy
+Dupuytren's Contracture,Thickening of the palm - Formation of lumps or cords - Finger contracture,Hand exercises - Stretching - Injections - Surgery,Collagenase injections - Needle aponeurotomy
+Bursitis,Joint pain - Swelling - Stiffness - Redness - Limited range of motion,Rest - Ice therapy - Compression - Elevation,NSAIDs - Corticosteroid injections
+Rotator Cuff Tear,Shoulder pain - Weakness - Limited range of motion,Rest - Ice therapy - Physical therapy - Shoulder exercises,NSAIDs - Corticosteroid injections
+Labyrinthitis,Dizziness - Vertigo - Nausea - Hearing loss - Tinnitus,Rest - Medications for nausea - Vestibular rehabilitation - Avoid sudden movements,Meclizine - Dimenhydrinate
+Shin Splints,Pain along the inner edge of the shinbone - Tenderness - Swelling,Rest - Ice therapy - Stretching - Proper footwear,NSAIDs - Compression sleeves
+Fibromyalgia,Widespread pain - Fatigue - Sleep disturbances - Cognitive difficulties,Regular exercise - Stress management - Medications - Cognitive-behavioral therapy (CBT),Pregabalin - Duloxetine
+Amyotrophic Lateral Sclerosis (ALS),Muscle weakness - Difficulty speaking - Difficulty swallowing - Twitching,Supportive care - Physical therapy - Speech therapy - Assistive devices,Riluzole - Edaravone
+Glaucoma,Gradual loss of peripheral vision - Eye pain - Blurred vision - Halos around lights,Eye exams - Medications - Laser therapy - Surgical procedures,Timolol - Latanoprost
+Chronic Obstructive Pulmonary Disease (COPD),Shortness of breath - Chronic cough - Wheezing - Chest tightness,Smoking cessation - Medications - Pulmonary rehabilitation - Oxygen therapy,Albuterol - Tiotropium
+Osteoporosis,Fractures - Loss of height - Back pain - Stooped posture,Calcium intake - Vitamin D intake - Weight-bearing exercises - Medications,Bisphosphonates - Raloxifene
+Sleep Paralysis,Inability to move or speak while falling asleep or waking up,Consistent sleep schedule - Stress management - Treatment of underlying sleep disorders,No specific drugs for treatment
+Interstitial Cystitis/Painful Bladder Syndrome (IC/PBS),Pelvic pain - Urgency/frequency of urination - Pain during sexual intercourse,Bladder training - Dietary changes - Medications - Physical therapy,Amitriptyline - Pentosan polysulfate sodium
+Peripheral Artery Disease (PAD),Leg pain while walking (claudication) - Numbness or weakness - Coldness in lower leg or foot,Smoking cessation - Exercise therapy - Medications - Angioplasty/vascular surgery,Aspirin - Clopidogrel
+Diverticulitis,Abdominal pain - Fever - Changes in bowel habits - Nausea,Low-fiber diet - Antibiotics - Rest - Avoiding certain foods,Ciprofloxacin - Metronidazole
+Cystic Fibrosis,Chronic cough - Thick mucus - Respiratory infections - Difficulty breathing,Airway clearance techniques - Medications - Pulmonary rehabilitation - Lung transplant,Ivacaftor - Dornase alfa
+Osteomyelitis,Bone pain - Fever - Swelling - Redness - Limited range of motion,IV antibiotics - Surgical drainage - Rest - Immobilization,Ceftriaxone - Vancomycin
+Whipple's Disease,Abdominal pain - Diarrhea - Weight loss - Joint pain,Long-term antibiotic therapy - Nutritional support,Ceftriaxone - Trimethoprim-sulfamethoxazole
+Agoraphobia,Fear of open spaces or crowded places - Avoidance of triggering situations,Exposure therapy - Cognitive-behavioral therapy (CBT) - Medications,Selective serotonin reuptake inhibitors (SSRIs) - Benzodiazepines
+Ovarian Cancer,Abdominal bloating - Pelvic pain - Changes in bowel habits - Fatigue,Surgery - Chemotherapy - Targeted therapy - Radiation therapy,Carboplatin - Paclitaxel
+Sjögren's Syndrome,Dry eyes - Dry mouth - Joint pain - Fatigue - Swollen salivary glands,Artificial tears - Saliva substitutes - Medications - Dental care,Hydroxychloroquine - Cyclosporine
+Celiac Disease,Abdominal pain - Diarrhea - Bloating - Fatigue - Joint pain,Gluten-free diet - Avoid cross-contamination - Nutrient supplementation,Adalimumab - Infliximab
+Eczema,Itchy skin - Red or brown patches - Dry, cracked skin - Swelling - Blisters,Moisturize regularly - Avoid irritants - Topical steroids - Antihistamines,Hydrocortisone - Desonide
+Chronic Kidney Disease,Fatigue - Swelling - Shortness of breath - Confusion - Decreased urine output,Low-protein diet - Medications - Dialysis - Fluid control,Angiotensin-converting enzyme (ACE) inhibitors - Diuretics
+Pancreatitis,Abdominal pain - Nausea - Vomiting - Fever - Rapid pulse,Fasting - Pain management - Nutritional support - Avoid alcohol and fatty foods,Morphine - Omeprazole
+Dyslexia,Difficulty reading - Spelling challenges - Slow reading - Poor handwriting - Difficulty with phonics,Educational interventions - Reading programs - Speech therapy,No specific drugs for treatment
+Autism Spectrum Disorder (ASD),Social challenges - Repetitive behaviors - Communication difficulties - Sensory sensitivities,Early intervention - Applied Behavior Analysis (ABA) - Speech therapy - Occupational therapy,No specific drugs for core symptoms
+Chronic Lymphocytic Leukemia (CLL),Fatigue - Enlarged lymph nodes - Night sweats - Weight loss,Watchful waiting - Chemotherapy - Targeted therapy - Immunotherapy,Fludarabine - Ibrutinib
+Cerebral Palsy,Muscle stiffness - Weakness - Poor coordination - Speech difficulties - Seizures,Physical therapy - Occupational therapy - Speech therapy - Assistive devices,Baclofen - Diazepam
+Hypoparathyroidism,Tingling in extremities - Muscle cramps - Fatigue - Dry skin - Abdominal pain,Calcium supplements - Vitamin D supplements - Magnesium supplements,Calcitriol - Alfacalcidol
+Brucellosis,Fever - Sweating - Fatigue - Joint pain - Headache,Avoid unpasteurized dairy products - Antibiotics - Animal vaccination,Doxycycline - Rifampin
+Strep Throat,Sore throat - Fever - Headache - Swollen tonsils - Difficulty swallowing,Antibiotics - Rest - Hydration - Throat lozenges,Penicillin - Amoxicillin
+Carpal Tunnel Syndrome,Numbness or tingling in fingers - Hand weakness - Pain radiating up the arm,Rest - Wrist splints - Corticosteroid injections - Surgery,NSAIDs - Gabapentin
+Addison's Disease,Chronic fatigue - Weight loss - Muscle weakness - Low blood pressure - Darkening of skin,Adequate salt intake - Hormone replacement therapy,Hydrocortisone - Fludrocortisone
+Diabetic Neuropathy,Numbness or tingling in extremities - Loss of sensation - Burning pain - Muscle weakness,Blood sugar control - Medications - Foot care - Physical therapy,Gabapentin - Pregabalin
+Hemorrhagic Stroke,Sudden severe headache - Weakness or numbness on one side - Confusion - Difficulty speaking,Immediate medical attention - Rehabilitation - Medications for prevention,Aspirin - Clopidogrel
+Breast Cancer,Lump in the breast - Changes in breast size or shape - Nipple discharge,Regular mammograms - Breast self-exams - Genetic counseling - Healthy lifestyle,Tamoxifen - Trastuzumab - Letrozole
+Lung Cancer,Chronic cough - Chest pain - Shortness of breath - Unexplained weight loss,Smoking cessation - Avoiding secondhand smoke - Lung cancer screening - Healthy diet,Cisplatin - Erlotinib - Pembrolizumab
+Colorectal Cancer,Changes in bowel habits - Blood in stool - Abdominal discomfort - Unexplained weight loss,Colonoscopy - High-fiber diet - Regular exercise - Genetic counseling,Capecitabine - Oxaliplatin - Bevacizumab
+Prostate Cancer,Frequent urination - Blood in urine or semen - Erectile dysfunction,Prostate-specific antigen (PSA) test - Digital rectal exam - Healthy diet - Regular exercise,Leuprolide - Abiraterone - Enzalutamide
+Ovarian Cancer,Abdominal bloating - Pelvic pain - Changes in bowel habits - Fatigue,Pelvic exams - Genetic counseling - Oral contraceptives,Carboplatin - Paclitaxel - Olaparib
+Pancreatic Cancer,Abdominal pain - Jaundice - Unexplained weight loss - Changes in stool color,Whipple procedure - Chemotherapy - Radiation therapy,Gemcitabine - FOLFIRINOX - Erlotinib
+Bladder Cancer,Blood in urine - Pelvic pain - Frequent urination - Back pain,Regular check-ups - Smoking cessation - Healthy diet - Hydration,Cisplatin - Gemcitabine - Immunotherapy
+Skin Cancer,Changes in moles or skin lesions - Itching or tenderness - Changes in skin color,Regular skin checks - Sun protection - Avoiding tanning beds,Imiquimod - Fluorouracil - Ipilimumab
+Leukemia,Fatigue - Frequent infections - Unexplained weight loss - Easy bruising or bleeding,Bone marrow biopsy - Genetic testing - Stem cell transplant,Imatinib - Rituximab - Chemotherapy
+Brain Cancer,Headaches - Seizures - Changes in vision or hearing - Personality changes,Brain imaging - Surgery - Radiation therapy - Chemotherapy,Temozolomide - Bevacizumab - Carmustine
+Thyroid Cancer,Neck lump - Difficulty swallowing - Hoarseness - Fatigue,Thyroid ultrasound - Thyroidectomy - Radioactive iodine therapy,Levothyroxine - Lenvatinib - Sorafenib
+Liver Cancer,Abdominal pain - Jaundice - Unexplained weight loss - Swelling in the abdomen,Liver transplant - Chemoembolization - Targeted therapy,Sorafenib - Regorafenib - Atezolizumab
+Esophageal Cancer,Difficulty swallowing - Chest pain - Unexplained weight loss - Persistent cough,Endoscopy - Surgery - Chemoradiotherapy,Cisplatin - 5-Fluorouracil - Paclitaxel
+Kidney Cancer,Blood in urine - Abdominal pain - Unexplained weight loss - Fatigue,Kidney surgery - Targeted therapy - Immunotherapy,Sunitinib - Pazopanib - Nivolumab
+Cervical Cancer,Abnormal vaginal bleeding - Pelvic pain - Pain during intercourse - Watery, bloody discharge,Pap smear - HPV vaccine - HPV testing - Pelvic exams,Cisplatin - Paclitaxel - Bevacizumab
+Endometrial Cancer,Abnormal uterine bleeding - Pelvic pain - Pain during intercourse - Unexplained weight loss,Endometrial biopsy - Hysterectomy - Radiation therapy,Progesterone - Doxorubicin - Paclitaxel
+Testicular Cancer,Lump or swelling in the testicle - Pain or discomfort - Back pain - Enlarged breasts,Testicular self-exams - Surgery - Chemotherapy,Cisplatin - Etoposide - Bleomycin
+Gastric (Stomach) Cancer,Abdominal pain - Nausea - Unexplained weight loss - Difficulty swallowing,Upper endoscopy - Surgery - Chemotherapy,Cisplatin - Fluorouracil - Trastuzumab
+Hodgkin Lymphoma,Enlarged lymph nodes - Unexplained weight loss - Night sweats - Itchy skin,Lymph node biopsy - Chemotherapy - Radiation therapy,ABVD regimen - Brentuximab vedotin
+Non-Hodgkin Lymphoma,Swollen lymph nodes - Abdominal pain - Fever - Night sweats,Lymph node biopsy - Chemotherapy - Immunotherapy - Radiation therapy,R-CHOP regimen - Ibrutinib - Rituximab
+Multiple Myeloma,Bone pain - Fatigue - Frequent infections - Unexplained weight loss,Bone marrow biopsy - Chemotherapy - Stem cell transplant,Lenalidomide - Bortezomib - Dexamethasone
+Bone Cancer,Bone pain - Swelling - Limited range of motion - Fatigue,Bone biopsy - Surgery - Chemotherapy,Doxorubicin - Ifosfamide - Methotrexate
+Soft Tissue Sarcoma,Lump or swelling - Pain or tenderness - Limited range of motion - Fatigue,Biopsy - Surgery - Chemotherapy - Radiation therapy,Ifosfamide - Doxorubicin - Pazopanib
+Uterine Sarcoma,Abnormal vaginal bleeding - Pelvic pain - Pain during intercourse - Enlarged uterus,Endometrial biopsy - Surgery - Radiation therapy,Doxorubicin - Ifosfamide - Gemcitabine
+Neuroendocrine Tumors,Abdominal pain - Diarrhea - Flushing - Wheezing,Somatostatin analogs - Targeted therapy - Peptide receptor radionuclide therapy (PRRT),Octreotide - Lanreotide - Everolimus
+Thymoma,Thymus tumor - Chest pain - Cough - Difficulty breathing,Chest imaging - Surgery - Radiation therapy - Chemotherapy,Cisplatin - Etoposide - Prednisone
+Germ Cell Tumors,Testicular or ovarian mass - Abdominal pain - Unexplained weight loss,Testicular self-exams - Surgery - Chemotherapy,BEP regimen - Etoposide - Cisplatin
+Mesothelioma,Shortness of breath - Chest pain - Unexplained weight loss - Fatigue,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Pemetrexed - Cisplatin - Gemcitabine
+Nasopharyngeal Cancer,Nasal congestion - Hearing loss - Earaches - Neck mass,Nasopharyngoscopy - Radiation therapy - Chemotherapy,Cisplatin - Fluorouracil - Docetaxel
+Oral Cancer,Mouth sores - Persistent mouth pain - Difficulty swallowing - Changes in voice,Dental check-ups - Surgery - Radiation therapy - Chemotherapy,Cisplatin - 5-Fluorouracil - Cetuximab
+Penile Cancer,Changes in skin color or thickness - Penile discharge - Enlarged lymph nodes,Circumcision - Surgery - Chemotherapy,Cisplatin - Paclitaxel - Ifosfamide
+Adrenal Gland Tumors,Abdominal pain - Weight gain or loss - High blood pressure - Sweating,Imaging tests - Surgery - Radiation therapy - Medications,Mitotane - Ketoconazole - Aminoglutethimide
+Anal Cancer,Anal bleeding - Pain or discomfort - Changes in bowel habits - Enlarged lymph nodes,Anoscopy - Chemotherapy - Radiation therapy,5-Fluorouracil - Mitomycin C - Capecitabine
+Cholangiocarcinoma,Jaundice - Abdominal pain - Unexplained weight loss - Itchy skin,ERCP - Surgery - Chemotherapy - Radiation therapy,Gemcitabine - Cisplatin - 5-Fluorouracil
+Choriocarcinoma,Abnormal vaginal bleeding - Enlarged uterus - Pelvic pain - Unexplained weight loss,Pelvic ultrasound - Chemotherapy - Surgery,Methotrexate - Etoposide - Actinomycin D
+Chordoma,Back or neck pain - Difficulty swallowing - Headaches - Double vision,Imaging tests - Surgery - Radiation therapy - Targeted therapy,Imatinib - Sunitinib - Brachytherapy
+Cutaneous T-Cell Lymphoma,Itchy skin - Red rash - Enlarged lymph nodes - Fatigue,Skin biopsy - Topical treatments - Phototherapy - Chemotherapy,Bexarotene - Vorinostat - Brentuximab vedotin
+Ductal Carcinoma In Situ (DCIS),Abnormal mammogram findings - Breast lump - Changes in breast size or shape,Regular mammograms - Genetic counseling - Hormone therapy,Tamoxifen - Anastrozole - Letrozole
+Ependymoma,Headaches - Nausea - Vomiting - Difficulty walking,Imaging tests - Surgery - Radiation therapy - Chemotherapy,Methotrexate - Vincristine - Etoposide
+Gastrointestinal Stromal Tumor (GIST),Abdominal pain - Blood in stool - Feeling full quickly - Unexplained weight loss,Endoscopy - Surgery - Targeted therapy - Chemotherapy,Imatinib - Sunitinib - Regorafenib
+Malignant Fibrous Histiocytoma,Soft tissue mass - Pain or tenderness - Limited range of motion,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Ifosfamide - Doxorubicin - Gemcitabine
+Merkel Cell Carcinoma,Fast-growing skin nodule - Red or purple patches - Swollen lymph nodes,Skin biopsy - Surgery - Radiation therapy - Immunotherapy,Avelumab - Pembrolizumab - Ipilimumab
+Myelodysplastic Syndromes (MDS),Fatigue - Frequent infections - Easy bruising or bleeding - Shortness of breath,Bone marrow biopsy - Blood tests - Supportive care - Stem cell transplant,Azacitidine - Decitabine - Lenalidomide
+Myelofibrosis,Fatigue - Enlarged spleen or liver - Anemia - Night sweats,Blood tests - Imaging tests - Medications - Stem cell transplant,Ruxolitinib - Fedratinib - Danazol
+Peripheral Nerve Tumors,Neurological symptoms - Numbness or tingling - Weakness - Pain,Imaging tests - Surgery - Radiation therapy - Chemotherapy,Imatinib - Vincristine - Bevacizumab
+Retinoblastoma,White pupil - Crossed eyes - Redness or swelling in the eye,Retinal examination - Surgery - Chemotherapy - Radiation therapy,Carboplatin - Vincristine - Etoposide
+Rhabdomyosarcoma,Lump or swelling - Pain or tenderness - Unexplained weight loss,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Vincristine - Dactinomycin - Ifosfamide
+Thymic Carcinoma,Thymus tumor - Chest pain - Cough - Difficulty breathing,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Cisplatin - Etoposide - Pembrolizumab
+Wilms Tumor,Abdominal swelling or pain - Blood in urine - High blood pressure,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Dactinomycin - Vincristine - Doxorubicin
+Ewing Sarcoma,Bone pain - Swelling - Fever - Fatigue,Imaging tests - Biopsy - Surgery - Chemotherapy,Vincristine - Doxorubicin - Cyclophosphamide
+Adrenocortical Carcinoma,Abdominal pain - Weight gain or loss - High blood pressure - Sweating,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Mitotane - Etoposide - Cisplatin
+Inflammatory Breast Cancer,Breast redness or swelling - Warmth or tenderness - Thickened skin - Rapid breast changes,Breast biopsy - Chemotherapy - Surgery - Radiation therapy,Anthracycline-based regimens - Trastuzumab - Pertuzumab
+Mucosal Melanoma,Changes in moles or skin lesions - Bleeding or discharge - Unexplained weight loss,Skin biopsy - Surgery - Immunotherapy - Targeted therapy,Ipilimumab - Nivolumab - Dabrafenib
+Paget's Disease of the Breast,Redness or flakiness on the nipple or areola - Itching - Burning sensation,Breast biopsy - Mammogram - Surgery - Radiation therapy,Tamoxifen - Anastrozole - Letrozole
+Primary Central Nervous System (CNS) Lymphoma,Headaches - Confusion - Seizures - Vision changes,Brain imaging - Lumbar puncture - Chemotherapy - Radiation therapy,Methotrexate - Rituximab - Thiotepa
+Small Cell Lung Cancer (SCLC),Persistent cough - Shortness of breath - Chest pain - Unexplained weight loss,Smoking cessation - Chemotherapy - Radiation therapy - Immunotherapy,Cisplatin - Etoposide - Atezolizumab
+Large Cell Lung Cancer,Chronic cough - Chest pain - Shortness of breath - Unexplained weight loss,Smoking cessation - Chemotherapy - Radiation therapy - Immunotherapy,Cisplatin - Carboplatin - Pembrolizumab
+Sarcoma,Soft tissue mass - Pain or tenderness - Limited range of motion - Fatigue,Imaging tests - Surgery - Chemotherapy - Radiation therapy,Ifosfamide - Doxorubicin - Pazopanib
+Uveal Melanoma,Changes in vision - Dark spots on the iris - Eye pain - Blind spots in vision,Eye exams - Surgery - Radiation therapy - Immunotherapy,Plaque radiotherapy - Enucleation - Ipilimumab
+Hairy Cell Leukemia,Fatigue - Enlarged spleen or liver - Frequent infections - Easy bruising or bleeding,Blood tests - Bone marrow biopsy - Supportive care - Cladribine - Pentostatin
+Acne,Pimples - Blackheads - Whiteheads - Inflammation,Regular cleansing - Avoiding picking or squeezing,Topical retinoids - Benzoyl peroxide - Antibiotics
+Psoriasis,Red - scaly patches - Itching - Silvery scales,Sun protection - Moisturizers - Stress management,Topical corticosteroids - Vitamin D analogs - Biologics
+Eczema (Dermatitis),Itchy skin - Redness - Dry, cracked skin - Inflammation,Moisturizing - Avoiding irritants - Gentle cleansing,Topical corticosteroids - Antihistamines - Calcineurin inhibitors
+Rosacea,Redness - Visible blood vessels - Bumps - Eye irritation,Sun protection - Avoiding triggers - Gentle skincare,Topical antibiotics - Oral antibiotics - Laser therapy
+Dermatitis Herpetiformis,Itchy - red bumps - Blistering - Burning sensation,Gluten-free diet - Medications for symptom relief,Dapsone - Sulfapyridine
+Vitiligo,Loss of skin color - Depigmented patches - Sun protection - Cosmetic camouflage - Topical corticosteroids - Phototherapy,Topical calcineurin inhibitors - Psoralen plus ultraviolet A (PUVA)
+Hives (Urticaria),Raised - itchy welts - Red or skin-colored,Allergen avoidance - Antihistamines - Cool compresses,Oral antihistamines - Corticosteroids - Epinephrine
+Lupus Erythematosus,Butterfly rash on face - Joint pain - Fatigue - Photosensitivity,Sun protection - Avoiding triggers - Medications,Hydroxychloroquine - Corticosteroids - Immunosuppressants
+Actinic Keratosis,Rough - scaly patches - Itching - Red or pink growths,Sun protection - Regular skin checks - Topical treatments,5-Fluorouracil - Imiquimod - Cryotherapy
+Impetigo,Red sores - Blisters - Yellowish-brown crusts,Hand hygiene - Avoiding skin-to-skin contact - Antibiotic ointments,Topical or oral antibiotics
+Cellulitis,Red - swollen skin - Pain - Warmth - Fever,Wound care - Antibiotics - Elevation of affected area,Cephalexin - Dicloxacillin - Clindamycin
+Folliculitis,Red - inflamed hair follicles - Pimples - Itching,Cleanliness - Avoiding tight clothing - Topical antibiotics - Antifungal agents,Clindamycin - Mupirocin - Ketoconazole
+Ringworm (Dermatophytosis),Circular - red rash - Itching - Scaling,Avoiding infected animals - Antifungal creams - Oral antifungals,Clotrimazole - Terbinafine - Fluconazole
+Shingles (Herpes Zoster),Painful rash - Blistering - Itching,Vaccination - Pain management - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+Cold Sores (Herpes Simplex),Painful - fluid-filled blisters - Itching - Burning,Sun protection - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+Molluscum Contagiosum,Small, raised bumps - White or waxy in appearance,Avoiding skin-to-skin contact - Topical treatments - Cryotherapy,Cantharidin - Imiquimod - Curettage
+Lichen Planus,Purplish, flat-topped bumps - Itching - Mouth sores,Topical corticosteroids - Antihistamines - Phototherapy,Tacrolimus - Hydroxychloroquine
+Keloids,Overgrown scar tissue - Raised - rubbery lesions,Avoiding skin trauma - Silicone sheets - Corticosteroid injections,Corticosteroid creams - Cryotherapy - Laser therapy
+Melasma,Dark - brown patches on face - Sun-induced, Sun protection - Topical treatments - Chemical peels,Hydroquinone - Tretinoin - Azelaic acid
+Seborrheic Dermatitis,Red - scaly patches - Dandruff - Itching,Gentle cleansing - Anti-fungal shampoos - Topical corticosteroids,Ketoconazole - Selenium sulfide - Hydrocortisone
+Miliaria (Heat Rash),Tiny red bumps - Itching - Prickling sensation,Cooling measures - Loose-fitting clothing - Avoiding excessive heat,Topical corticosteroids - Calamine lotion
+Necrotizing Fasciitis,Severe pain - Red or purple skin discoloration - Fever,Immediate medical attention - Antibiotics - Surgery,Broad-spectrum antibiotics - Surgical debridement
+Granuloma Annulare,Red or skin-colored bumps - Ring-shaped patches - Itching,Topical corticosteroids - Cryotherapy - Phototherapy,Tacrolimus - Pimecrolimus
+Lipomas,Soft - rubbery lumps under the skin,Observation - Surgical removal,Excision
+Prurigo Nodularis,Itchy nodules - Rough, scaly patches - Secondary infections,Avoiding scratching - Topical steroids - Antihistamines,Topical corticosteroids - Tacrolimus
+Angioedema,Sudden swelling - Pain - Itching,Avoiding triggers - Antihistamines - Corticosteroids,Epinephrine - Cetirizine - Prednisone
+Erythema Multiforme,Target-like rash - Blisters - Itching,Avoiding triggers - Symptomatic treatment - Corticosteroids,Antihistamines - Acetaminophen - Prednisone
+Pityriasis Rosea,Oval - scaly patches - Itching - Herald patch,Observation - Sun protection - Topical steroids,Acyclovir - Phototherapy
+Scabies,Itching - Pimple-like bumps - Burrows,Topical scabicides - Laundering of bedding and clothing - Avoiding close contact,Permethrin - Ivermectin - Crotamiton
+Lichen Sclerosus,White - thin patches - Itching - Pain,Tight clothing avoidance - Moisturizers - Topical corticosteroids,Clobetasol - Tacrolimus - Ultraviolet (UV) light therapy
+Ichthyosis,Very dry - scaly skin - Cracked skin - Fish-like scales,Moisturizers - Exfoliating - Topical retinoids,Emollients - Lactic acid creams - Tazarotene
+Xeroderma Pigmentosum,Freckle-like spots - Skin cancers - Photosensitivity,Sun protection - Protective clothing - Regular skin checks,Cryotherapy - Excision - Laser therapy
+Dercum's Disease,Painful lipomas - Fatigue - Joint pain,Symptomatic treatment - Pain management - Weight control,Gabapentin - Lidocaine patches - Corticosteroids
+Cutis Laxa,Loss of skin elasticity - Wrinkling - Loose, sagging skin,Avoiding smoking - Supportive care - Surgical procedures,Plastic surgery - Dermabrasion - Skin grafting
+Porphyria,Blistering - Photosensitivity - Abdominal pain,Avoiding triggers - Sun protection - Symptomatic treatment,Intravenous heme - Pain management - Beta-carotene
+Ichthyosis Vulgaris,Dry - scaly skin - Fish-like scales - Itching,Moisturizers - Exfoliating - Topical retinoids,Emollients - Lactic acid creams - Tazarotene
+Cutaneous T-Cell Lymphoma,Itchy skin - Red rash - Enlarged lymph nodes,Skin biopsy - Topical treatments - Phototherapy - Chemotherapy,Bexarotene - Vorinostat - Brentuximab vedotin
+Stevens-Johnson Syndrome,Flu-like symptoms - Rash - Blisters - Mucous membrane involvement,Immediate medical attention - Supportive care - Corticosteroids,Intravenous immunoglobulin - Cyclosporine - Prednisone
+Pemphigoid,Blisters - Itching - Rash - Mouth sores,Topical corticosteroids - Immunosuppressants - Antibiotics,Dapsone - Prednisone - Methotrexate
+Hidradenitis Suppurativa,Painful lumps - Boil-like lesions - Scarring,Avoiding tight clothing - Weight control - Antibacterial washes,Clindamycin - Adalimumab - Corticosteroids
+Epidermolysis Bullosa,Blisters - Skin fragility - Scarring,Protective bandaging - Wound care - Pain management,Topical antibiotics - Dressing changes - Physical therapy
+Guttate Psoriasis,Small - red spots - Itching - Scaling,Sun protection - Topical treatments - Phototherapy,Topical corticosteroids - Vitamin D analogs - Coal tar
+Dermatomyositis,Rash - Muscle weakness - Joint pain,Sun protection - Physical therapy - Immunosuppressants,Glucocorticoids - Methotrexate - Azathioprine
+Ichthyosis Hystrix,Spiky - cone-shaped scales - Thickened skin - Cracking,Moisturizers - Exfoliating - Topical retinoids,Emollients - Lactic acid creams - Tazarotene
+Mastocytosis,Itching - Flushing - Hives - Abdominal pain,Avoiding triggers - Antihistamines - Epinephrine,Cromolyn - Antileukotrienes - Imatinib
+Neurofibromatosis,Tumors on or under the skin - Cafe-au-lait spots - Learning disabilities,Observation - Surgical removal - Symptomatic treatment,Losartan - Sirolimus - Tumor excision
+Candidiasis,Red, itchy rash - White patches - Fissures,Avoiding moisture - Antifungal creams - Oral antifungals,Clotrimazole - Fluconazole - Nystatin
+Neurodermatitis,Itchy patches - Lichenification - Red or brown patches,Avoiding scratching - Topical steroids - Antihistamines,Triamcinolone - Doxepin - Hydroxyzine
+Keratosis Pilaris,Rough - bumpy skin - Redness - Plugged hair follicles,Moisturizing - Gentle exfoliation - Topical retinoids,Salicylic acid - Lactic acid creams - Tretinoin
+Solar Lentigines (Sunspots),Flat - brown spots - Sun-induced,Sun protection - Topical treatments - Chemical peels,Hydroquinone - Tretinoin - Laser therapy
+Tinea Versicolor,Light or dark patches - Itching - Scaling,Sun protection - Antifungal creams - Selenium sulfide,Ketoconazole - Clotrimazole - Fluconazole
+Nevus Sebaceous,Yellowish - raised plaque - Hair loss - Skin changes,Observation - Surgical removal - Laser therapy,Excision - Dermabrasion - CO2 laser
+Urticarial Vasculitis,Wheals - Itching - Painful lesions,Avoiding triggers - Antihistamines - Corticosteroids,Hydroxyzine - Prednisone - Azathioprine
+Morphea (Localized Scleroderma),Hardened patches - Discoloration - Itching,Topical corticosteroids - Phototherapy - Physical therapy,Methotrexate - UVA1 phototherapy - Corticosteroids
+Cutaneous Leishmaniasis,Red papules or nodules - Ulcers - Scarring,Avoiding sandfly bites - Antiparasitic medications,Pentamidine - Miltefosine - Amphotericin B
+Dressler Syndrome,Chest pain - Fever - Pericarditis - Pleuritis,Avoiding triggers - Pain management - Anti-inflammatory drugs,Aspirin - Colchicine - Prednisone
+Angiokeratoma,Crusted - raised bumps - Dark red or purple color,Observation - Laser therapy - Surgical removal,Laser ablation - Cryotherapy - Excision
+Epidermolytic Ichthyosis,Thickened, scaly skin - Cracking - Blistering,Moisturizers - Exfoliating - Topical retinoids,Emollients - Lactic acid creams - Tazarotene
+Toxic Epidermal Necrolysis,Skin detachment - Flu-like symptoms - Mucous membrane involvement,Immediate medical attention - Supportive care - Corticosteroids,Intravenous immunoglobulin - Cyclosporine - Prednisone
+Scleroderma (Systemic),Hardened skin - Joint pain - Fatigue,Regular skin checks - Physical therapy - Immunosuppressants,Corticosteroids - Methotrexate - Mycophenolate mofetil
+Dystrophic Epidermolysis Bullosa,Blisters - Skin fragility - Scarring,Protective bandaging - Wound care - Pain management,Topical antibiotics - Dressing changes - Physical therapy
+Xeroderma,Persistent dry skin - Itching - Fine lines,Moisturizers - Sun protection - Topical retinoids,Emollients - Lactic acid creams - Tretinoin
+Tuberous Sclerosis Complex,Reddish patches - Facial growths - Seizures - Intellectual disabilities,Observation - Surgical removal - Antiepileptic drugs,Topical corticosteroids - Laser therapy - Vigabatrin
+Polymorphic Light Eruption,Rash - Itching - Red or inflamed skin,Sun protection - Gradual sun exposure - Topical corticosteroids,Hydrocortisone - Prednisone - Antihistamines
+Confluent and Reticulated Papillomatosis,Brown patches - Scaling - Central network of lines,Avoiding triggers - Antibacterial washes - Topical antibiotics,Minocycline - Azithromycin - Ketoconazole
+Subcutaneous Panniculitis-Like T-Cell Lymphoma,Subcutaneous nodules - Skin thickening - Pain,Avoiding triggers - Immunosuppressants - Chemotherapy,CHOP regimen - Methotrexate - Brentuximab vedotin
+COVID-19,Fever - Cough - Shortness of breath - Loss of taste or smell,Vaccination - Mask-wearing - Social distancing - Hand hygiene,Remdesivir - Dexamethasone - Monoclonal antibodies
+Chickenpox,Itchy rash - Fever - Fatigue - Headache,Varicella vaccination - Isolation - Antiviral medications,Acyclovir - Valacyclovir
+Measles,High fever - Cough - Runny nose - Koplik spots (white spots in the mouth),Measles vaccination - Isolation - Vitamin A supplements,Supportive care - Vitamin A supplementation
+Mumps,Swollen salivary glands - Fever - Headache - Muscle aches,Mumps vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers - Ice packs
+Rubella (German Measles),Pink rash - Mild fever - Swollen lymph nodes,Rubella vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers
+Mononucleosis (Mono),Fatigue - Sore throat - Swollen lymph nodes - Fever,Avoiding close contact - Rest - Hydration,Supportive care - Corticosteroids - Antiviral medications
+Shingles (Herpes Zoster),Painful rash - Blistering - Itching,Vaccination - Pain management - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+HIV/AIDS,Fatigue - Fever - Weight loss - Night sweats,HIV prevention - Antiretroviral therapy (ART) - Safe sex practices,Highly Active Antiretroviral Therapy (HAART)
+Dengue Fever,High fever - Severe headache - Joint and muscle pain - Rash,Mosquito control - Avoiding mosquito bites - Fluid replacement,Supportive care - Pain relievers
+West Nile Virus,Fever - Headache - Body aches - Skin rash,Mosquito control - Avoiding mosquito bites - Insect repellents,Supportive care - Pain relievers
+Zika Virus,Fever - Rash - Joint pain - Conjunctivitis,Mosquito control - Avoiding mosquito bites - Safe sex practices,Supportive care - Rest - Hydration
+Norovirus,Gastrointestinal symptoms - Vomiting - Diarrhea - Abdominal cramps,Hand hygiene - Food safety - Isolation,Hydration - Electrolyte replacement - Antiemetics
+Rotavirus,Diarrhea - Vomiting - Fever - Abdominal pain,Oral rotavirus vaccination - Hand hygiene - Isolation,Hydration - Electrolyte replacement - Antiemetics
+Hepatitis A,Jaundice - Fatigue - Abdominal pain - Dark urine,Hepatitis A vaccination - Hand hygiene - Safe food and water practices,Supportive care - Rest - Hydration
+Hepatitis B,Jaundice - Fatigue - Abdominal pain - Joint pain,Hepatitis B vaccination - Safe sex practices - Avoiding sharing needles,Antiviral medications - Interferon - Liver transplant
+Hepatitis C,Fatigue - Jaundice - Abdominal pain - Nausea,Hepatitis C screening - Safe sex practices - Avoiding sharing needles,Direct-acting antivirals (DAAs)
+Herpes Simplex Virus (HSV),Painful sores - Itching - Fever - Headache,Condom use - Avoiding close contact during outbreaks - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+Human Papillomavirus (HPV),Genital warts - Cervical dysplasia - Throat cancer - No symptoms,HPV vaccination - Safe sex practices - Pap smears,Podophyllotoxin - Imiquimod - Cryotherapy
+Meningitis (Viral),Fever - Headache - Stiff neck - Photophobia,Hand hygiene - Avoiding close contact - Meningitis vaccination,Supportive care - Antiviral medications
+Infectious Mononucleosis (Mono),Fatigue - Sore throat - Swollen lymph nodes - Fever,Avoiding close contact - Rest - Hydration,Supportive care - Corticosteroids - Antiviral medications
+Yellow Fever,Fever - Headache - Muscle pain - Jaundice,Yellow fever vaccination - Mosquito control - Avoiding mosquito bites,Supportive care - Symptomatic treatment
+Chikungunya Virus,Fever - Joint pain - Rash - Muscle pain,Mosquito control - Avoiding mosquito bites - Symptomatic treatment,Supportive care - Pain relievers
+Mumps,Swollen salivary glands - Fever - Headache - Muscle aches,Mumps vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers - Ice packs
+Hantavirus Pulmonary Syndrome (HPS),Fever - Muscle aches - Shortness of breath - Fatigue,Avoiding rodent contact - Rodent control - No specific treatment,Supportive care - Oxygen therapy - Mechanical ventilation
+Rabies,Fever - Headache - Anxiety - Hydrophobia (fear of water),Preventive vaccination - Post-exposure prophylaxis (PEP) - Animal control,Post-exposure prophylaxis (PEP) - Rabies immune globulin (RIG)
+Ebola Virus Disease,Fever - Severe headache - Muscle pain - Fatigue,Infection control - Safe burial practices - Experimental treatments,Symptomatic treatment - Supportive care - Experimental therapies
+Cytomegalovirus (CMV),Fatigue - Fever - Sore throat - Swollen glands,Hand hygiene - Avoiding close contact - Safe sex practices,Antiviral medications - Ganciclovir - Valganciclovir
+Hand, Foot and Mouth Disease (HFMD),Fever - Sore throat - Mouth sores - Skin rash,Hand hygiene - Isolation - Disinfection of surfaces,Symptomatic treatment - Pain relievers - Oral rehydration
+Respiratory Syncytial Virus (RSV),Cough - Runny nose - Fever - Wheezing,Hand hygiene - Avoiding close contact - Respiratory etiquette,Supportive care - Oxygen therapy - Ribavirin
+Epstein-Barr Virus (EBV),Fatigue - Sore throat - Swollen lymph nodes - Fever,Hand hygiene - Avoiding close contact - Rest,Supportive care - Corticosteroids - Antiviral medications
+Mumps,Swollen salivary glands - Fever - Headache - Muscle aches,Mumps vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers - Ice packs
+Zoster (Shingles),Painful rash - Blistering - Itching,Vaccination - Pain management - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+Hantavirus Pulmonary Syndrome (HPS),Fever - Muscle aches - Shortness of breath - Fatigue,Avoiding rodent contact - Rodent control - No specific treatment,Supportive care - Oxygen therapy - Mechanical ventilation
+Rabies,Fever - Headache - Anxiety - Hydrophobia (fear of water),Preventive vaccination - Post-exposure prophylaxis (PEP) - Animal control,Post-exposure prophylaxis (PEP) - Rabies immune globulin (RIG)
+Norovirus,Gastrointestinal symptoms - Vomiting - Diarrhea - Abdominal cramps,Hand hygiene - Food safety - Isolation,Hydration - Electrolyte replacement - Antiemetics
+Hand, Foot and Mouth Disease (HFMD),Fever - Sore throat - Mouth sores - Skin rash,Hand hygiene - Isolation - Disinfection of surfaces,Symptomatic treatment - Pain relievers - Oral rehydration
+Herpes Simplex Virus (HSV),Painful sores - Itching - Fever - Headache,Condom use - Avoiding close contact during outbreaks - Antiviral medications,Acyclovir - Valacyclovir - Famciclovir
+Hepatitis A,Jaundice - Fatigue - Abdominal pain - Dark urine,Hepatitis A vaccination - Hand hygiene - Safe food and water practices,Supportive care - Rest - Hydration
+Hepatitis B,Jaundice - Fatigue - Abdominal pain - Joint pain,Hepatitis B vaccination - Safe sex practices - Avoiding sharing needles,Antiviral medications - Interferon - Liver transplant
+Hepatitis C,Fatigue - Jaundice - Abdominal pain - Nausea,Hepatitis C screening - Safe sex practices - Avoiding sharing needles,Direct-acting antivirals (DAAs)
+HIV/AIDS,Fatigue - Fever - Weight loss - Night sweats,HIV prevention - Antiretroviral therapy (ART) - Safe sex practices,Highly Active Antiretroviral Therapy (HAART)
+Dengue Fever,High fever - Severe headache - Joint and muscle pain - Rash,Mosquito control - Avoiding mosquito bites - Fluid replacement,Supportive care - Pain relievers
+West Nile Virus,Fever - Headache - Body aches - Skin rash,Mosquito control - Avoiding mosquito bites - Insect repellents,Supportive care - Pain relievers
+Zika Virus,Fever - Rash - Joint pain - Conjunctivitis,Mosquito control - Avoiding mosquito bites - Safe sex practices,Supportive care - Rest - Hydration
+Chikungunya Virus,Fever - Joint pain - Rash - Muscle pain,Mosquito control - Avoiding mosquito bites - Symptomatic treatment,Supportive care - Pain relievers
+Infectious Mononucleosis (Mono),Fatigue - Sore throat - Swollen lymph nodes - Fever,Avoiding close contact - Rest - Hydration,Supportive care - Corticosteroids - Antiviral medications
+Influenza (Flu),Fever - Cough - Fatigue - Body aches,Flu vaccination - Hand hygiene - Respiratory etiquette,Oseltamivir - Zanamivir - Baloxavir
+Respiratory Syncytial Virus (RSV),Cough - Runny nose - Fever - Wheezing,Hand hygiene - Avoiding close contact - Respiratory etiquette,Supportive care - Oxygen therapy - Ribavirin
+Epstein-Barr Virus (EBV),Fatigue - Sore throat - Swollen lymph nodes - Fever,Hand hygiene - Avoiding close contact - Rest,Supportive care - Corticosteroids - Antiviral medications
+Human Papillomavirus (HPV),Genital warts - Cervical dysplasia - Throat cancer - No symptoms,HPV vaccination - Safe sex practices - Pap smears,Podophyllotoxin - Imiquimod - Cryotherapy
+Measles,High fever - Cough - Runny nose - Koplik spots (white spots in the mouth),Measles vaccination - Isolation - Vitamin A supplements,Supportive care - Vitamin A supplementation
+Mumps,Swollen salivary glands - Fever - Headache - Muscle aches,Mumps vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers - Ice packs
+Rubella (German Measles),Pink rash - Mild fever - Swollen lymph nodes,Rubella vaccination - Isolation - Symptomatic treatment,Supportive care - Pain relievers
+Molluscum Contagiosum,Small, raised bumps - White or waxy in appearance,Avoiding skin-to-skin contact - Topical treatments - Cryotherapy,Cantharidin - Imiquimod - Curettage
+Human Parainfluenza Viruses,Croup - Cough - Sore throat - Runny nose,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Antiviral medications
+Coronaviruses,Respiratory symptoms - Fever - Cough - Shortness of breath,Hand hygiene - Mask-wearing - Social distancing - Vaccination,Remdesivir - Dexamethasone - Monoclonal antibodies
+Adenovirus Infections,Fever - Sore throat - Pink eye - Gastroenteritis,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Antiviral medications
+Enterovirus D68 (EV-D68),Respiratory symptoms - Wheezing - Difficulty breathing,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Oxygen therapy - Mechanical ventilation
+Astrovirus Infections,Diarrhea - Vomiting - Abdominal pain,Hand hygiene - Food safety - Avoiding contaminated water,Hydration - Electrolyte replacement - Symptomatic treatment
+Bornholm Disease (Coxsackievirus),Chest pain - Fever - Abdominal pain - Painful breathing,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Pain relievers - Anti-inflammatories
+Hand, Foot and Mouth Disease (HFMD),Fever - Sore throat - Mouth sores - Skin rash,Hand hygiene - Isolation - Disinfection of surfaces,Symptomatic treatment - Pain relievers - Oral rehydration
+Parvovirus B19 Infection,Fever - Rash (slapped cheek appearance) - Joint pain,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Pain relievers - Anti-inflammatories
+Reovirus Infections,Fever - Gastroenteritis - Respiratory symptoms,Hand hygiene - Respiratory etiquette - Avoiding close contact,Supportive care - Symptomatic treatment
+Astrovirus Infections,Diarrhea - Vomiting - Abdominal pain,Hand hygiene - Food safety - Avoiding contaminated water,Hydration - Electrolyte replacement - Symptomatic treatment
+Norovirus,Gastrointestinal symptoms - Vomiting - Diarrhea - Abdominal cramps,Hand hygiene - Food safety - Isolation,Hydration - Electrolyte replacement - Antiemetics
+Coronary Artery Disease (CAD),Chest pain (angina) - Shortness of breath - Fatigue,Smoking - High blood pressure - High cholesterol - Diabetes,Medications (statins, beta-blockers) - Angioplasty - Coronary artery bypass grafting (CABG)
+Heart Attack (Myocardial Infarction),Chest pain or discomfort - Shortness of breath - Sweating,Smoking - High blood pressure - High cholesterol - Obesity,Aspirin - Thrombolytics - Percutaneous coronary intervention (PCI)
+Heart Failure,Shortness of breath - Fatigue - Swelling in legs and abdomen,Coronary artery disease - Hypertension - Diabetes - Obesity,Diuretics - ACE inhibitors - Beta-blockers - Heart transplant
+Arrhythmia (Atrial Fibrillation),Irregular heartbeat - Chest pain - Fatigue,Hypertension - Diabetes - Aging - Heart valve disease,Medications (anticoagulants, antiarrhythmics) - Cardioversion - Ablation
+Heart Valve Disease,Shortness of breath - Chest pain - Fatigue,Aging - Rheumatic fever - Congenital heart defects,Medications (diuretics, ACE inhibitors) - Valve repair or replacement
+Aortic Aneurysm,Chest or back pain - Difficulty swallowing - Shortness of breath,Aging - High blood pressure - Smoking,Surgery (aneurysm repair) - Endovascular stent graft
+Peripheral Artery Disease (PAD),Leg pain - Numbness - Coldness in limbs,Smoking - Diabetes - High blood pressure - Aging,Exercise - Medications (antiplatelets, statins) - Angioplasty
+Cardiomyopathy,Shortness of breath - Swelling in legs - Fatigue,Genetics - Infections - Alcohol abuse - Diabetes,Medications (beta-blockers, ACE inhibitors) - Implantable devices - Heart transplant
+Mitral Valve Prolapse (MVP),Irregular heartbeat - Chest pain - Fatigue,Genetics - Connective tissue disorders - Female gender,Beta-blockers - Surgery (valve repair or replacement)
+Hypertrophic Cardiomyopathy (HCM),Shortness of breath - Chest pain - Fainting,Genetics - High blood pressure - Aging,Beta-blockers - Calcium channel blockers - Septal myectomy
+Pericarditis,Chest pain - Fever - Fatigue,Viral infections - Autoimmune disorders - Kidney failure,Nonsteroidal anti-inflammatory drugs (NSAIDs) - Colchicine
+Endocarditis,Fever - Fatigue - Heart murmur,Heart valve abnormalities - Intravenous drug use - Dental procedures,Intravenous antibiotics - Valve repair or replacement
+Myocarditis,Chest pain - Shortness of breath - Fatigue,Viral infections - Autoimmune disorders - Drug reactions,Supportive care - Medications (corticosteroids, immunosuppressants)
+Rheumatic Heart Disease,Chest pain - Shortness of breath - Fatigue,Untreated strep throat - Rheumatic fever,Medications (antibiotics, anti-inflammatory drugs) - Valve repair or replacement
+Acute Coronary Syndrome (ACS),Chest pain or discomfort - Shortness of breath - Nausea,Smoking - High blood pressure - High cholesterol - Diabetes,Aspirin - Thrombolytics - Percutaneous coronary intervention (PCI)
+Cardiac Arrest,Sudden loss of consciousness - No pulse - No breathing,Coronary artery disease - Previous heart attack - Arrhythmias,CPR - Defibrillation - Advanced life support
+Brugada Syndrome,Fainting - Irregular heartbeat - Sudden cardiac arrest,Genetic mutations - Family history,Implantable cardioverter-defibrillator (ICD) - Medications (sodium channel blockers)
+Long QT Syndrome,Fainting - Irregular heartbeat - Sudden cardiac arrest,Genetic mutations - Medications (certain antibiotics, antiarrhythmics),Beta-blockers - ICD - Avoidance of triggering medications
+Wolff-Parkinson-White Syndrome,Rapid heartbeat - Palpitations - Dizziness,Genetic mutations - Accessory pathways in the heart,Medications (antiarrhythmics) - Catheter ablation
+Atrial Septal Defect (ASD),Shortness of breath - Fatigue - Heart palpitations,Genetics - Family history - Age,Observation - Closure with catheter-based procedures or surgery
+Ventricular Septal Defect (VSD),Shortness of breath - Poor growth - Sweating,Genetics - Family history - Age,Observation - Closure with catheter-based procedures or surgery
+Aortic Stenosis,Chest pain - Shortness of breath - Fatigue,Aging - Congenital heart defects - Rheumatic fever,Medications (diuretics, ACE inhibitors) - Valve replacement surgery
+Aortic Regurgitation,Shortness of breath - Chest pain - Fatigue,Congenital heart defects - Rheumatic fever - Connective tissue disorders,Medications (vasodilators, diuretics) - Valve replacement surgery
+Mitral Stenosis,Shortness of breath - Fatigue - Swelling in legs,Rheumatic fever - Age - Congenital heart defects,Medications (diuretics, blood thinners) - Balloon valvuloplasty - Valve replacement surgery
+Mitral Regurgitation,Shortness of breath - Fatigue - Heart palpitations,Rheumatic fever - Age - Congenital heart defects,Medications (vasodilators, diuretics) - Valve repair or replacement surgery
+Tricuspid Stenosis,Shortness of breath - Fatigue - Swelling in legs,Congenital heart defects - Rheumatic fever,Medications (diuretics, blood thinners) - Balloon valvuloplasty - Valve replacement surgery
+Tricuspid Regurgitation,Swelling in legs - Fatigue - Enlarged liver,Congenital heart defects - Rheumatic fever - Age,Medications (diuretics, vasodilators) - Valve repair or replacement surgery
+Arrhythmogenic Right Ventricular Dysplasia (ARVD),Palpitations - Fainting - Sudden cardiac arrest,Genetic mutations - Family history,Implantable cardioverter-defibrillator (ICD) - Medications (beta-blockers)
+Ebstein's Anomaly,Cyanosis (bluish skin) - Shortness of breath - Fatigue,Maternal lithium use during pregnancy - Genetics,Observation - Surgery (repair or replacement of tricuspid valve)
+Tetralogy of Fallot,Blue-tinged skin - Shortness of breath - Poor weight gain,Genetics - Maternal smoking during pregnancy,Open-heart surgery (corrective repair)
+Aneurysm,Abdominal or chest pain - Back pain - Shortness of breath,High blood pressure - Atherosclerosis - Family history,Surgery (aneurysm repair) - Endovascular stent graft
+High Blood Pressure (Hypertension),Headache - Fatigue - Chest pain - Vision problems,Age - Family history - Obesity - Smoking,Medications (diuretics, ACE inhibitors) - Lifestyle changes (diet, exercise)
+Deep Vein Thrombosis (DVT),Swelling - Pain - Red or discolored skin,Immobilization - Surgery - Cancer,Anticoagulant medications - Compression stockings - Thrombolytics
+Pulmonary Embolism (PE),Shortness of breath - Chest pain - Rapid heart rate,Deep vein thrombosis (DVT) - Surgery - Cancer,Anticoagulant medications - Thrombolytics - Oxygen therapy
+Atrial Fibrillation,Irregular heartbeat - Fatigue - Dizziness,Age - High blood pressure - Heart valve disorders,Medications (anticoagulants, antiarrhythmics) - Cardioversion - Ablation
+Ventricular Fibrillation,Sudden loss of consciousness - No pulse - No breathing,Heart attack - Previous heart surgery - Family history,Defibrillation - CPR - Medications (amiodarone)
+Peripartum Cardiomyopathy,Shortness of breath - Swelling in legs - Fatigue,Advanced maternal age - Hypertension - Multiple pregnancies,Medications (beta-blockers, diuretics) - Heart transplant
+Aortic Dissection,Sudden severe chest or back pain - Shortness of breath,High blood pressure - Connective tissue disorders - Aging,Surgery (aortic repair) - Medications (beta-blockers)
+Coarctation of the Aorta,High blood pressure - Headache - Weakness in lower extremities,Genetics - Turner syndrome - Bicuspid aortic valve,Surgery (aortic repair) - Balloon angioplasty
+Eisenmenger Syndrome,Cyanosis (bluish skin) - Shortness of breath - Fatigue,Congenital heart defects - Untreated shunt lesions,Medications (diuretics, anticoagulants) - Heart-lung transplant
+Kawasaki Disease,Fever - Rash - Swelling in hands and feet,Young age - Asian ethnicity - Male gender,Intravenous immunoglobulin (IVIG) - Aspirin - Corticosteroids
+Brugada Syndrome,Fainting - Irregular heartbeat - Sudden cardiac arrest,Genetic mutations - Family history,Implantable cardioverter-defibrillator (ICD) - Medications (sodium channel blockers)
+Hypoplastic Left Heart Syndrome (HLHS),Cyanosis (bluish skin) - Rapid breathing - Poor feeding,Genetics - Maternal exposure to certain medications,Heart transplant - Staged surgeries
+Takayasu's Arteritis,Weakness - Pain - Vision problems,Autoimmune disorders - Female gender - Young age,Corticosteroids - Immunosuppressive medications
+Pulmonary Hypertension,Shortness of breath - Fatigue - Chest pain,Connective tissue disorders - Congenital heart defects - Chronic lung diseases,Medications (vasodilators, anticoagulants) - Oxygen therapy
+Acute Pericarditis,Chest pain - Fever - Fatigue,Viral infections - Autoimmune disorders - Kidney failure,Nonsteroidal anti-inflammatory drugs (NSAIDs) - Colchicine
+Mitral Valve Prolapse (MVP),Irregular heartbeat - Chest pain - Fatigue,Genetics - Connective tissue disorders - Female gender,Beta-blockers - Surgery (valve repair or replacement)
+Aortic Stenosis,Chest pain - Shortness of breath - Fatigue,Aging - Congenital heart defects - Rheumatic fever,Medications (diuretics, ACE inhibitors) - Valve replacement surgery
+Aortic Regurgitation,Shortness of breath - Chest pain - Fatigue,Congenital heart defects - Rheumatic fever - Connective tissue disorders,Medications (vasodilators, diuretics) - Valve replacement surgery
+Mitral Stenosis,Shortness of breath - Fatigue - Swelling in legs,Rheumatic fever - Age - Congenital heart defects,Medications (diuretics, blood thinners) - Balloon valvuloplasty - Valve replacement surgery
+Mitral Regurgitation,Shortness of breath - Fatigue - Heart palpitations,Rheumatic fever - Age - Congenital heart defects,Medications (vasodilators, diuretics) - Valve repair or replacement surgery
+Tricuspid Stenosis,Shortness of breath - Fatigue - Swelling in legs,Congenital heart defects - Rheumatic fever,Medications (diuretics, blood thinners) - Balloon valvuloplasty - Valve replacement surgery
+Tricuspid Regurgitation,Swelling in legs - Fatigue - Enlarged liver,Congenital heart defects - Rheumatic fever - Age,Medications (diuretics, vasodilators) - Valve repair or replacement surgery
+Arrhythmogenic Right Ventricular Dysplasia (ARVD),Palpitations - Fainting - Sudden cardiac arrest,Genetic mutations - Family history,Implantable cardioverter-defibrillator (ICD) - Medications (beta-blockers)
+Ebstein's Anomaly,Cyanosis (bluish skin) - Shortness of breath - Fatigue,Maternal lithium use during pregnancy - Genetics,Observation - Surgery (repair or replacement of tricuspid valve)
+Tetralogy of Fallot,Blue-tinged skin - Shortness of breath - Poor weight gain,Genetics - Maternal smoking during pregnancy,Open-heart surgery (corrective repair)
+Aneurysm,Abdominal or chest pain - Back pain - Shortness of breath,High blood pressure - Atherosclerosis - Family history,Surgery (aneurysm repair) - Endovascular stent graft
+High Blood Pressure (Hypertension),Headache - Fatigue - Chest pain - Vision problems,Age - Family history - Obesity - Smoking,Medications (diuretics, ACE inhibitors) - Lifestyle changes (diet, exercise)
+Deep Vein Thrombosis (DVT),Swelling - Pain - Red or discolored skin,Immobilization - Surgery - Cancer,Anticoagulant medications - Compression stockings - Thrombolytics
+Pulmonary Embolism (PE),Shortness of breath - Chest pain - Rapid heart rate,Deep vein thrombosis (DVT) - Surgery - Cancer,Anticoagulant medications - Thrombolytics - Oxygen therapy
+Atrial Fibrillation,Irregular heartbeat - Fatigue - Dizziness,Age - High blood pressure - Heart valve disorders,Medications (anticoagulants, antiarrhythmics) - Cardioversion - Ablation
+Ventricular Fibrillation,Sudden loss of consciousness - No pulse - No breathing,Heart attack - Previous heart surgery - Family history,Defibrillation - CPR - Medications (amiodarone)
+Peripartum Cardiomyopathy,Shortness of breath - Swelling in legs - Fatigue,Advanced maternal age - Hypertension - Multiple pregnancies,Medications (beta-blockers, diuretics) - Heart transplant
+Aortic Dissection,Sudden severe chest or back pain - Shortness of breath,High blood pressure - Connective tissue disorders - Aging,Surgery (aortic repair) - Medications (beta-blockers)
+Alzheimer's Disease,Memory loss - Confusion - Difficulty in problem-solving,Aging - Family history - Genetics,Cholinesterase inhibitors - Memantine - Cognitive therapy
+Parkinson's Disease,Tremors - Bradykinesia - Muscle stiffness,Aging - Genetics - Environmental toxins,Dopamine agonists - Levodopa - Deep brain stimulation
+Multiple Sclerosis (MS),Fatigue - Numbness or tingling - Difficulty walking,Genetics - Smoking - Vitamin D deficiency,Immunomodulatory medications - Corticosteroids - Physical therapy
+Amyotrophic Lateral Sclerosis (ALS),Muscle weakness - Difficulty in speech and swallowing,Genetics - Aging - Environmental factors,Riluzole - Edaravone - Supportive care
+Epilepsy,Seizures - Temporary confusion - Uncontrollable movements,Brain injury - Genetics - Stroke,Antiepileptic medications - Ketogenic diet - Vagus nerve stimulation
+Migraine,Severe headaches - Nausea - Sensitivity to light and sound,Genetics - Hormonal changes - Triggers (food, stress),Pain relievers - Triptans - Preventive medications
+Cerebral Palsy,Muscle stiffness - Poor coordination - Speech difficulties,Brain injury during childbirth - Premature birth - Infections,Physical therapy - Medications (muscle relaxants) - Surgery
+Huntington's Disease,Involuntary movements - Cognitive decline - Mood changes,Genetics - Family history - Age,Tetrabenazine - Antipsychotic medications - Supportive care
+Cerebrovascular Accident (Stroke),Sudden numbness or weakness - Difficulty speaking - Severe headache,High blood pressure - Smoking - Diabetes,Clot-dissolving medications - Aspirin - Rehabilitation
+Traumatic Brain Injury (TBI),Headache - Memory problems - Mood changes,Falls - Car accidents - Sports injuries,Rest - Rehabilitation - Medications (pain relievers)
+Brain Tumor,Headache - Seizures - Changes in vision,Genetics - Radiation exposure - Family history,Surgery - Radiation therapy - Chemotherapy
+Cerebral Aneurysm,Severe headache - Blurred vision - Neck pain,High blood pressure - Smoking - Genetics,Endovascular coiling - Clipping - Surgical intervention
+Encephalitis,Fever - Headache - Confusion,Viral infections - Immunodeficiency - Mosquito-borne diseases,Antiviral medications - Immune therapies - Supportive care
+Meningitis,Headache - Stiff neck - Fever,Viral or bacterial infections - Weakened immune system,Antibiotics - Antiviral medications - Vaccination
+Neurofibromatosis,Tumors on nerves - Cafe-au-lait spots - Learning disabilities,Genetics - Family history - Spontaneous mutations,Surgery - Radiation therapy - Medications (pain relief)
+Creutzfeldt-Jakob Disease,Rapid cognitive decline - Muscle stiffness - Seizures,Genetics - Exposure to infected tissues,Symptomatic treatment - Supportive care
+Guillain-Barré Syndrome,Weakness - Tingling - Paralysis,Viral or bacterial infections - Immunizations - Surgery,Immunoglobulin therapy - Plasmapheresis - Physical therapy
+Peripheral Neuropathy,Numbness - Tingling - Pain,Diabetes - Alcohol abuse - Chemotherapy,Medications (pain relievers) - Physical therapy - Lifestyle changes
+Restless Legs Syndrome (RLS),Uncomfortable sensations in legs - Urge to move legs,Genetics - Iron deficiency - Chronic diseases,Dopamine agonists - Anticonvulsants - Iron supplements
+Bell's Palsy,Facial weakness - Drooping - Loss of taste,Viral infections - Diabetes - Upper respiratory infections,Corticosteroids - Antiviral medications - Physical therapy
+Narcolepsy,Excessive daytime sleepiness - Cataplexy - Sleep paralysis,Genetics - Family history - Autoimmune disorders,Stimulant medications - Sodium oxybate - Lifestyle changes
+Bipolar Disorder,Manic episodes - Depressive episodes - Mood swings,Genetics - Family history - Stress management,Mood stabilizers - Antidepressants - Psychotherapy
+Major Depressive Disorder (MDD),Persistent sadness - Loss of interest - Fatigue,Genetics - Brain structure abnormalities - Trauma,Antidepressant medications - Psychotherapy - Electroconvulsive therapy (ECT)
+Schizophrenia,Delusions - Hallucinations - Disorganized thinking,Genetics - Trauma - Drug use,Antipsychotic medications - Psychotherapy - Supportive care
+Obsessive-Compulsive Disorder (OCD),Obsessions - Compulsions - Anxiety,Genetics - Brain structure abnormalities - Trauma,Selective serotonin reuptake inhibitors (SSRIs) - Cognitive-behavioral therapy (CBT) - Exposure and response prevention
+Attention-Deficit/Hyperactivity Disorder (ADHD),Inattention - Hyperactivity - Impulsivity,Genetics - Brain structure abnormalities - Premature birth,Stimulant medications - Non-stimulant medications - Behavioral therapy
+Post-Traumatic Stress Disorder (PTSD),Flashbacks - Nightmares - Avoidance behaviors,Trauma - Genetics - Brain structure abnormalities,Psychotherapy - Medications (antidepressants) - Eye movement desensitization and reprocessing (EMDR)
+Eating Disorders (Anorexia, Bulimia, Binge Eating),Abnormal eating patterns - Body image concerns - Weight fluctuations,Genetics - Societal pressure - Trauma,Nutritional counseling - Psychotherapy - Medications (antidepressants)
+Autism Spectrum Disorder (ASD),Social difficulties - Repetitive behaviors - Communication challenges,Genetics - Advanced parental age - Environmental factors,Applied behavior analysis (ABA) - Speech therapy - Occupational therapy
+Intellectual Disability,Limitations in intellectual functioning - Adaptive behavior deficits,Genetics - Prenatal exposure to toxins - Complications during childbirth,Early intervention programs - Special education - Supportive services
+Hemorrhagic Stroke,Sudden severe headache - Loss of consciousness - Weakness,High blood pressure - Smoking - Blood vessel abnormalities,Surgery - Endovascular procedures - Rehabilitation
+Ischemic Stroke,Sudden numbness or weakness - Difficulty speaking - Severe headache,High blood pressure - Smoking - Diabetes,Thrombolytic medications - Aspirin - Rehabilitation
+Transient Ischemic Attack (TIA),Temporary weakness - Speech difficulties - Vision changes,High blood pressure - Smoking - Diabetes,Medications (antiplatelets) - Lifestyle changes - Rehabilitation
+Leptomeningeal Disease,Headache - Neck stiffness - Nausea,Cancer (metastatic) - Leukemia - Lymphoma,Craniospinal radiation - Intrathecal chemotherapy - Supportive care
+Chronic Traumatic Encephalopathy (CTE),Memory loss - Impaired judgment - Mood swings,Repetitive head injuries - Contact sports - Military service,Symptomatic treatment - Supportive care
+Arnold-Chiari Malformation,Headache - Neck pain - Balance problems,Genetics - Spinal defects - Hydrocephalus,Surgery (decompression) - Shunt placement - Medications (pain relief)
+Idiopathic Intracranial Hypertension (IIH),Headache - Vision changes - Tinnitus,Obesity - Female gender - Certain medications,Weight loss - Medications (diuretics) - Shunt placement
+Subarachnoid Hemorrhage,Sudden severe headache - Neck stiffness - Loss of consciousness,High blood pressure - Smoking - Aneurysm,Clipping - Coiling - Rehabilitation
+Nervous System Vasculitis,Headache - Seizures - Memory loss,Autoimmune disorders - Infections - Connective tissue diseases,Immunosuppressive medications - Corticosteroids - Plasmapheresis
+Central Pontine Myelinolysis,Difficulty speaking - Paralysis - Difficulty swallowing,Rapid correction of hyponatremia - Alcohol abuse - Liver transplantation,Supportive care - Rehabilitation
+Frontotemporal Dementia,Personality changes - Language difficulties - Poor judgment,Genetics - Family history - Brain atrophy,Supportive care - Medications (antidepressants, antipsychotics)
+Neurocysticercosis,Seizures - Headache - Cognitive impairment,Consumption of undercooked pork - Travel to endemic areas,Anthelmintic medications - Anticonvulsants - Corticosteroids
+Intracranial Hypotension,Severe headache - Neck pain - Nausea,Spinal surgery - Lumbar puncture - Trauma,Bed rest - Caffeine - Epidural blood patch
+Neurodegeneration with Brain Iron Accumulation (NBIA),Movement difficulties - Cognitive decline - Speech problems,Genetics - Family history - Iron metabolism disorders,Supportive care - Medications (chelating agents) - Physical therapy
+Subacute Sclerosing Panencephalitis (SSPE),Personality changes - Seizures - Motor disturbances,Measles infection (past) - Genetics - Immune system abnormalities,Supportive care - Antiviral medications
+Friedreich's Ataxia,Gait disturbances - Weakness - Speech problems,Genetics - Family history - Decreased frataxin protein,Supportive care - Physical therapy - Assistive devices
+Primary Central Nervous System Lymphoma,Changes in vision - Seizures - Cognitive decline,Immunodeficiency - Aging - Certain infections,High-dose chemotherapy - Radiation therapy - Immunotherapy
+Neurofibromatosis,Tumors on nerves - Cafe-au-lait spots - Learning disabilities,Genetics - Family history - Spontaneous mutations,Surgery - Radiation therapy - Medications (pain relief)
+Creutzfeldt-Jakob Disease,Rapid cognitive decline - Muscle stiffness - Seizures,Genetics - Exposure to infected tissues,Symptomatic treatment - Supportive care
+Guillain-Barré Syndrome,Weakness - Tingling - Paralysis,Viral or bacterial infections - Immunizations - Surgery,Immunoglobulin therapy - Plasmapheresis - Physical therapy
+Peripheral Neuropathy,Numbness - Tingling - Pain,Diabetes - Alcohol abuse - Chemotherapy,Medications (pain relievers) - Physical therapy - Lifestyle changes
+Restless Legs Syndrome (RLS),Uncomfortable sensations in legs - Urge to move legs,Genetics - Iron deficiency - Chronic diseases,Dopamine agonists - Anticonvulsants - Iron supplements
+Bell's Palsy,Facial weakness - Drooping - Loss of taste,Viral infections - Diabetes - Upper respiratory infections,Corticosteroids - Antiviral medications - Physical therapy
+Narcolepsy,Excessive daytime sleepiness - Cataplexy - Sleep paralysis,Genetics - Family history - Autoimmune disorders,Stimulant medications - Sodium oxybate - Lifestyle changes
+Bipolar Disorder,Manic episodes - Depressive episodes - Mood swings,Genetics - Family history - Stress management,Mood stabilizers - Antidepressants - Psychotherapy
+Major Depressive Disorder (MDD),Persistent sadness - Loss of interest - Fatigue,Genetics - Brain structure abnormalities - Trauma,Antidepressant medications - Psychotherapy - Electroconvulsive therapy (ECT)
+Schizophrenia,Delusions - Hallucinations - Disorganized thinking,Genetics - Trauma - Drug use,Antipsychotic medications - Psychotherapy - Supportive care
+Obsessive-Compulsive Disorder (OCD),Obsessions - Compulsions - Anxiety,Genetics - Brain structure abnormalities - Trauma,Selective serotonin reuptake inhibitors (SSRIs) - Cognitive-behavioral therapy (CBT) - Exposure and response prevention
+Attention-Deficit/Hyperactivity Disorder (ADHD),Inattention - Hyperactivity - Impulsivity,Genetics - Brain structure abnormalities - Premature birth,Stimulant medications - Non-stimulant medications - Behavioral therapy
+Post-Traumatic Stress Disorder (PTSD),Flashbacks - Nightmares - Avoidance behaviors,Trauma - Genetics - Brain structure abnormalities,Psychotherapy - Medications (antidepressants) - Eye movement desensitization and reprocessing (EMDR)
+Eating Disorders (Anorexia, Bulimia, Binge Eating),Abnormal eating patterns - Body image concerns - Weight fluctuations,Genetics - Societal pressure - Trauma,Nutritional counseling - Psychotherapy - Medications (antidepressants)
+Autism Spectrum Disorder (ASD),Social difficulties - Repetitive behaviors - Communication challenges,Genetics - Advanced parental age - Environmental factors,Applied behavior analysis (ABA) - Speech therapy - Occupational therapy
+Intellectual Disability,Limitations in intellectual functioning - Adaptive behavior deficits,Genetics - Prenatal exposure to toxins - Complications during childbirth,Early intervention programs - Special education - Supportive services
+Hemorrhagic Stroke,Sudden severe headache - Loss of consciousness - Weakness,High blood pressure - Smoking - Blood vessel abnormalities,Surgery - Endovascular procedures - Rehabilitation
+Ischemic Stroke,Sudden numbness or weakness - Difficulty speaking - Severe headache,High blood pressure - Smoking - Diabetes,Thrombolytic medications - Aspirin - Rehabilitation
+Transient Ischemic Attack (TIA),Temporary weakness - Speech difficulties - Vision changes,High blood pressure - Smoking - Diabetes,Medications (antiplatelets) - Lifestyle changes - Rehabilitation
+Leptomeningeal Disease,Headache - Neck stiffness - Nausea,Cancer (metastatic) - Leukemia - Lymphoma,Craniospinal radiation - Intrathecal chemotherapy - Supportive care
+Chronic Traumatic Encephalopathy (CTE),Memory loss - Impaired judgment - Mood swings,Repetitive head injuries - Contact sports - Military service,Symptomatic treatment - Supportive care
+Arnold-Chiari Malformation,Headache - Neck pain - Balance problems,Genetics - Spinal defects - Hydrocephalus,Surgery (decompression) - Shunt placement - Medications (pain relief)
+Idiopathic Intracranial Hypertension (IIH),Headache - Vision changes - Tinnitus,Obesity - Female gender - Certain medications,Weight loss - Medications (diuretics) - Shunt placement
+Subarachnoid Hemorrhage,Sudden severe headache - Neck stiffness - Loss of consciousness,High blood pressure - Smoking - Aneurysm,Clipping - Coiling - Rehabilitation
+Cataracts,Cloudy vision - Sensitivity to light - Fading colors,Aging - Diabetes - UV radiation exposure,Surgery (cataract removal) - Intraocular lens implantation
+Glaucoma,Gradual loss of peripheral vision - Eye pain - Blurred vision,Aging - Family history - High intraocular pressure (IOP),Medications (eye drops) - Laser therapy - Surgery (trabeculectomy)
+Macular Degeneration (AMD),Blurred or distorted central vision - Difficulty recognizing faces,Aging - Family history - Smoking,Anti-VEGF medications - Laser therapy - Low vision aids
+Diabetic Retinopathy,Blurred vision - Floaters - Blindness (in severe cases),Diabetes - Poor blood sugar control - Hypertension,Laser therapy - Anti-VEGF medications - Vitrectomy
+Retinal Detachment,Floaters - Flashes of light - Curtain-like shadow over vision,Aging - Previous eye surgeries - Myopia (nearsightedness),Surgery (retinal reattachment) - Scleral buckle
+Dry Eye Syndrome,Stinging or burning sensation - Redness - Blurred vision,Aging - Hormonal changes - Medications (antihistamines),Artificial tears - Prescription eye drops - Punctal plugs
+Conjunctivitis (Pink Eye),Redness - Itching - Discharge,Allergies - Viral or bacterial infections - Irritants,Artificial tears - Antihistamines - Antibiotics (bacterial conjunctivitis)
+Keratitis,Eye pain - Blurred vision - Sensitivity to light,Contact lens wear - Infections - Trauma,Antibiotic or antiviral eye drops - Corticosteroids - Pain relievers
+Uveitis,Redness - Blurred vision - Eye pain,Autoimmune disorders - Infections - Trauma,Corticosteroids - Immunosuppressive medications - Pupil-dilating eye drops
+Retinoblastoma,White pupil - Crossed eyes - Vision problems,Genetic mutations - Family history - Age (early childhood),Chemotherapy - Laser therapy - Enucleation (removal of the eye)
+Strabismus,Crossed eyes - Double vision - Squinting,Genetic factors - Neurological conditions - Vision problems,Corrective lenses - Eye patches - Surgery (strabismus correction)
+Amblyopia (Lazy Eye),Reduced vision in one eye - Squinting - Poor depth perception,Strabismus - Refractive errors - Family history,Corrective lenses - Eye patches - Vision therapy
+Nystagmus,Involuntary eye movement - Reduced vision - Sensitivity to light,Genetic disorders - Neurological conditions - Medications (anticonvulsants),Corrective lenses - Surgery (in some cases)
+Retinitis Pigmentosa,Night blindness - Tunnel vision - Difficulty seeing in low light,Genetic mutations - Age,Supportive care - Low vision aids - Gene therapy (in experimental stages)
+Ocular Hypertension,Elevated intraocular pressure - No noticeable symptoms,Aging - Family history - Ethnicity (African descent),Close monitoring - Medications (eye drops)
+Ptosis (Drooping Eyelid),Sagging upper eyelid - Impaired vision - Headache,Age - Nerve damage - Trauma,Surgery (ptosis repair) - Botox injections (in some cases)
+Color Blindness,Difficulty distinguishing certain colors - Color confusion,Genetic mutations - Age (rarely acquired),Adaptive devices - Color-correcting lenses - Vision aids
+Retinopathy of Prematurity (ROP),Abnormal blood vessel growth - Retinal scarring - Blindness,Premature birth - Low birth weight - Supplemental oxygen,Laser therapy - Cryotherapy - Surgery (retinal detachment)
+Corneal Ulcer,Eye pain - Redness - Blurred vision,Contact lens wear - Eye injuries - Bacterial or fungal infections,Topical antibiotics - Antifungal medications - Lubricating eye drops
+Ocular Melanoma,Changes in the appearance of the eye - Vision changes,Light eye color - Age - UV radiation exposure,Surgery (tumor removal) - Radiation therapy - Enucleation (in some cases)
+Ocular Myasthenia Gravis,Double vision - Eyelid drooping - Fatigue,Autoimmune disorders - Thymus gland abnormalities - Genetic factors,Medications (anticholinesterase drugs) - Immunosuppressants - Thymectomy
+Hemianopsia,Visual field loss in one-half of both eyes,Stroke - Traumatic brain injury - Brain tumors,Rehabilitation therapy - Prism glasses - Vision aids
+Corneal Dystrophy,Blurred vision - Light sensitivity - Eye pain,Genetic mutations - Age,Corneal transplantation - Topical medications - Phototherapeutic keratectomy (PTK)
+Pinguecula,Yellowish growth on the conjunctiva - Redness - Dryness,UV radiation exposure - Aging - Dry eye syndrome,Lubricating eye drops - Sunglasses - Surgery (in some cases)
+Pterygium,Growth on the cornea - Redness - Irritation,UV radiation exposure - Dry, windy environments,Surgery (pterygium excision) - Artificial tears - Anti-inflammatory medications
+Corneal Abrasion,Scratched cornea - Eye pain - Blurred vision,Foreign objects - Trauma - Improper contact lens use,Topical antibiotics - Pain relievers - Bandage contact lenses
+Macular Hole,Blurry or distorted central vision - Central scotoma - Difficulty reading,Aging - Trauma - High myopia,Macular hole surgery - Vitrectomy - Gas injection
+Retinoschisis,Blurred or distorted vision - Floaters - Reduced peripheral vision,Genetic mutations - Age - High myopia,Observation - Laser therapy (in some cases) - Vitrectomy
+Ocular Albinism,Nystagmus - Reduced pigmentation in the eyes,Genetic mutations - Family history - Male gender,Low-vision aids - Corrective lenses - Visual aids
+Recurrent Corneal Erosion,Sudden onset of eye pain - Photophobia - Blurred vision,Corneal dystrophy - Previous eye injuries - Dry eye syndrome,Lubricating eye drops - Bandage contact lenses - Epithelial debridement
+Ocular Migraine,Temporary vision loss or blindness - Visual disturbances,Genetic factors - Hormonal changes - Stress management,Avoidance of triggers - Medications (pain relievers)
+Retinal Artery Occlusion,Sudden vision loss - Floaters - Retinal pallor,High blood pressure - Diabetes - Smoking,Intravenous thrombolysis - Ocular massage - Hyperbaric oxygen therapy
+Retinal Vein Occlusion,Blurry or distorted vision - Hemorrhages - Macular edema,Age - Hypertension - Diabetes,Intravitreal injections - Laser therapy - Anti-VEGF medications
+Optic Neuritis,Eye pain - Blurred vision - Loss of color vision,Multiple sclerosis - Viral infections - Autoimmune disorders,Steroids - Plasma exchange - Symptomatic treatment
+Choroideremia,Progressive vision loss - Night blindness - Peripheral vision loss,Genetic mutations - Family history - Male gender,Supportive care - Low-vision aids - Gene therapy (in experimental stages)
+Ocular Lymphoma,Changes in vision - Eye pain - Floaters,Immunodeficiency - Aging - Certain infections,Radiation therapy - Chemotherapy - Immunotherapy
+Cystoid Macular Edema,Blurred or distorted central vision - Central scotoma,Diabetes - Retinal vascular diseases - Uveitis,Topical or systemic medications - Laser therapy - Surgery (vitrectomy)
+Ocular Toxoplasmosis,Blurry vision - Eye pain - Floaters,Contact with contaminated cat feces - Undercooked meat consumption,Medications (antibiotics) - Corticosteroids - Supportive care

@@ -1,0 +1,8 @@
+CREATE TABLE appointments (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  patient_name VARCHAR(255) NOT NULL,
+  patient_number VARCHAR(15) NOT NULL,
+  patient_gender VARCHAR(10) NOT NULL,
+  appointment_time DATETIME NOT NULL,
+  preferred_mode VARCHAR(20) NOT NULL
+);

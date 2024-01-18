@@ -4,9 +4,11 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://github.com/Amaan9136/gfc-health/ "Health Plus")
+- **Website**: [Health Plus](https://health-plus-seven.vercel.app)
 - **Framework**: React.js
-- **Deployment**: GitHub Pages
+- **Backend**: PHP
+- **Database**: MySQL
+- **Deployment**: Vercel
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
 
 ## Features
@@ -15,55 +17,70 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 - Engage in virtual consultations to receive expert medical advice.
 - Responsive UI design for seamless user experience across devices.
 - Utilizes React-Toastify for notifications, React Router DOM for page routing, and FontAwesomeIcon for icons.
-- Deployed using GitHub Pages for easy access and sharing.
+- Deployed using Vercel for easy access and sharing.
 
 ## Screenshots
 
 ### Hero Section
 
-![Health-Plus Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
+![Health-Plus Image-1](screenshots/Screenshot%20(164).png)
 
 ### Information Section
 
-![Health-Plus Image-2](https://i.postimg.cc/zvRJY4TF/Health-Plus-Image2.png)
+![Health-Plus Image-2](screenshots/Screenshot%20(165).png)
 
 ### About Section
 
-![Health-Plus Image-3](https://i.postimg.cc/8zGrwbV0/Health-Plus-Image3.png)
+![Health-Plus Image-3](screenshots/Screenshot%20(166).png)
 
 ### Why Choose Health Plus?
 
-![Health-Plus Image-4](https://i.postimg.cc/fknMz5Kn/Health-Plus-Image4.png)
+![Health-Plus Image-4](screenshots/Screenshot%20(167).png)
 
 ### Reviews Section
 
-![Health-Plus Image-5](https://i.postimg.cc/xjkHdCRt/Health-Plus-Image5.png)
+![Health-Plus Image-5](screenshots/Screenshot%20(168).png)
 
 ### Doctors Section
 
-![Health-Plus Image-6](https://i.postimg.cc/8PM6h0xv/Health-Plus-Image6.png)
+![Health-Plus Image-6](screenshots/Screenshot%20(169).png)
 
 ### Footer Section
 
-![Health-Plus Image-7](https://i.postimg.cc/sftWGrHy/Health-Plus-Image7.png)
+![Health-Plus Image-7](screenshots/Screenshot%20(170).png)
 
 ### Legal Documents Page
 
-![Health-Plus Image-8](https://i.postimg.cc/FKskXszb/Health-Plus-Image8.png)
+![Health-Plus Image-8](screenshots/Screenshot%20(176).png)
+
+### Chatbot 
+
+![Health-Plus Image-9](screenshots/Screenshot%20(171).png)
+
+### Predict Disease 1
+
+![Health-Plus Image-10](screenshots/Screenshot%20(172).png)
+
+### Predict Disease 2
+![Health-Plus Image-11](screenshots/Screenshot%20(175).png)
 
 ### Appointment Form Page
 
-![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
+![Health-Plus Image-12](screenshots/Screenshot%20(173).png)
+
+### View Old Appointments
+
+![Health-Plus Image-13](screenshots/Screenshot%20(174).png)
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at []().
+The website is deployed using Vercel and can be accessed at [https://health-plus-seven.vercel.app](https://health-plus-seven.vercel.app/).
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Amaan9136/gfc-health.git`
+1. Clone this repository: `git clone https://github.com/Amaan9136/gfg-health.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and visit: `http://localhost:3000/Health-Plus`

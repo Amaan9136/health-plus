@@ -1,0 +1,23 @@
+.disease-table {
+    max-width: 600px;
+    border-collapse: collapse;
+}
+
+.disease-table td {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.recommend-btn {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #3442db;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.recommend-btn:hover {
+    background-color: #14167a;
+}
